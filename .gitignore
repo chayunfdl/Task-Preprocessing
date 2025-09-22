@@ -1,28 +1,17 @@
-# venv & cache
+@"
 .venv/
-env/
-venv/
+data/output/
+data/tmp/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# IDE/OS
 .vscode/
 .idea/
 .DS_Store
-
-# build/temp
 build/
 dist/
 *.egg-info/
-
-# data/output & tmp
-data/output/
-data/tmp/
-data/tmpholds/
-
-# big binaries / models
 *.dll
 *.lib
 *.so
@@ -33,9 +22,7 @@ data/tmpholds/
 *.onnx
 *.model
 *.ckpt
+"@ | Set-Content .gitignore
 
-# notebooks cache
-.ipynb_checkpoints/
-
-# logs
-*.log
+git add .gitignore
+git commit -m "Add .gitignore (ignore venv & large binaries)"
