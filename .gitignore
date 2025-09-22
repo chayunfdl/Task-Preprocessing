@@ -1,0 +1,41 @@
+# venv & cache
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+
+# build/temp
+build/
+dist/
+*.egg-info/
+
+# data/output & tmp
+data/output/
+data/tmp/
+data/tmpholds/
+
+# big binaries / models
+*.dll
+*.lib
+*.so
+*.dylib
+*.bin
+*.pt
+*.pth
+*.onnx
+*.model
+*.ckpt
+
+# notebooks cache
+.ipynb_checkpoints/
+
+# logs
+*.log
