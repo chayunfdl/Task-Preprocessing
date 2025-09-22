@@ -1,0 +1,7 @@
+label,replace by
+social medium,social media
+social-media,social media
+social media platform,social media
+social-media-platform,social media
+social media platforms,social media
+social mediums,social media

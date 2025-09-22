@@ -1,0 +1,4160 @@
+label,replace by
+agent,
+analysis,
+awareness,
+content,
+data set,
+dataset,
+education,
+effect,
+effects,
+experience,
+first stage,
+impact,
+impacts,
+insight,
+interview,
+interviews,
+management,
+pair,
+participant,
+participants,
+progress,
+questionnaire,
+questionnaires,
+reward,
+role,
+site,
+software,
+100 videos,100 video
+12 variables,12 variabl
+200 videos,200 video
+3 categories,3 categori
+50 videos,50 video
+84 videos,84 video
+a series,a seri
+aberrantes,aberrant
+abilities,abiliti
+ablation experiments,ablation experiment
+ablation studies,ablation studi
+abnormalities,abnormaliti
+abortion plotlines,abortion plotlin
+above challenges,above challeng
+above issues,above issu
+above problems,above problem
+absa datasets,absa dataset
+absa rules,absa rul
+absa tasks,absa task
+absences,absenc
+abstractions,abstraction
+abstractors,abstractor
+abstracts,abstract
+absts,abst
+abuses,abus
+abusive language,kasar
+academicians,academician
+academics,academic
+accelerates,accelerat
+accents,accent
+accentuates,accentuat
+access,acces
+accident reports,accident report
+accidents,accident
+accommodations,accommodation
+accomplishes,accomplish
+accounts,account
+accuracies,accuraci
+accuracy,acc
+accuracy rates,accuracy rat
+accurate answers,accurate answer
+accurate responses,accurate respons
+achievements,achievement
+achilles,achill
+achillestendinopathyexercises,achillestendinopathyexercis
+achillestendinosisexercises,achillestendinosisexercis
+achillestendonexercises,achillestendonexercis
+achillestendonitisexercises,achillestendonitisexercis
+acos,aco
+acoustic features,acoustic featur
+acquaintances,acquaintanc
+acquires,acquir
+acquisitions,acquisition
+acronyms,acronym
+across,acros
+across modalities,across modaliti
+across various,across variou
+actionability scores,actionability scor
+actionable insights,actionable insight
+actions,action
+active users,active user
+activists,activist
+activities,activiti
+actors,actor
+acts,act
+actuators,actuator
+adaptations,adaptation
+adaptions,adaption
+adapts,adapt
+adas,ada
+addicts,addict
+additional analyses,additional analys
+additional experiments,additional experiment
+additive explanations,additive explanation
+address,addres
+address this,address thi
+addresses,addres
+addresses this,addresses thi
+adds,add
+adheres,adher
+adjectives,adjectiv
+adjustments,adjustment
+adjusts,adjust
+adkg's,adkg'
+administrations,administration
+administrators,administrator
+adolescents,adolescent
+adoptions,adoption
+adopts,adopt
+adprss,adprs
+adults,adult
+advanced technologies,advanced technologi
+advancements,advancement
+advances,advanc
+advantageous,advantageou
+advantages,advantag
+adverbs,adverb
+adversarial attacks,adversarial attack
+adversarial examples,adversarial exampl
+adverse effects,adverse effect
+adverse events,adverse event
+advertisements,advertisement
+advertisers,advertiser
+advertising strategies,advertising strategi
+adverts,advert
+advisors,advisor
+advocates,advocat
+ae attacks,ae attack
+aems,aem
+aesthetics,aesthetic
+affairs,affair
+affections,affection
+affective computing,ate
+affective states,affective stat
+affects,affect
+affiliations,affiliation
+affine transformations,affine transformation
+affirms,affirm
+affordances,affordanc
+afiliaciones,afiliacion
+afiliadas,afiliada
+aforementioned issues,aforementioned issu
+afterwards,afterward
+agencies,agenci
+agents,
+ages,ag
+aggregates,aggregat
+aggregations,aggregation
+agonists,agonist
+agreeableness,agreeablenes
+agreements,agreement
+agricultural products,agricultural product
+agronomists,agronomist
+ai applications,ai application
+ai systems,ai system
+ai techniques,ai techniqu
+ai technologies,ai technologi
+ai tools,ai tool
+ai's,ai'
+aids,aid
+aigc labels,aigc label
+ailments,ailment
+aimless,aimles
+aims,aim
+alarms,alarm
+algorithm awareness,algorithm awarenes
+algorithm's,algorithm'
+alias,alia
+alibaba's,alibaba'
+alignment,rm
+alignments,rm
+aligns,align
+all modalities,all modaliti
+all participants,all participant
+alleviates,alleviat
+allocates,allocat
+allow users,allow user
+allows,allow
+allows users,allows user
+also examines,also examin
+also explores,also explor
+also highlights,also highlight
+also incorporates,also incorporat
+also reveals,also reveal
+also shows,also show
+alterations,alteration
+alternates,alternat
+alternative approaches,alternative approach
+alternative ways,alternative way
+alternatives,alternativ
+alters,alter
+always,alway
+alzheimer's,alzheimer'
+alzheimers,alzheimer
+amalgamates,amalgamat
+amas,ama
+ambiguities,ambiguiti
+ambiguous,ambiguou
+ambitious,ambitiou
+among adolescents,among adolescent
+among entities,among entiti
+among others,among other
+among users,among user
+among words,among word
+amos,amo
+amounts,amount
+amphibians,amphibian
+amplifies,amplifi
+amps,amp
+analogs,analog
+analysis indicates,analysis indicat
+analysis reveals,analysis reveal
+analysis shows,analysis show
+analysts,analyst
+analytical techniques,analytical techniqu
+analytics,analytic
+analyzes,analyz
+anchors,host
+anecdotes,anecdot
+angeles,angel
+anger scores,anger scor
+animals,animal
+animations,animation
+ann's,ann'
+annotated datasets,annotated dataset
+annotation process,annotation proces
+annotations,annotation
+annotators,annotator
+announcements,announcement
+anns,ann
+anomalies,anomali
+anonymous,anonymou
+anonymous users,anonymous user
+anovas,anova
+answer entities,answer entiti
+answering questions,answering question
+answers,answer
+antecedents,antecedent
+antibiotics,antibiotic
+anticipated emotions,anticipated emotion
+anticipates,anticipat
+antivaping videos,antivaping video
+anxious,anxiou
+aparentes,aparent
+apgrus,apgru
+apis,api
+app reviews,app review
+appearance comparisons,appearance comparison
+appearances,appearanc
+appears,appear
+appendices,appendic
+appends,append
+appliances,applianc
+applicable across,applicable acros
+application domains,application domain
+application prospects,application prospect
+application scenarios,application scenario
+applying plms,applying plm
+appointments,appointment
+appraisals,appraisal
+approach achieves,approach achiev
+approach enables,approach enabl
+approach outperforms,approach outperform
+appropriateness,appropriatenes
+apps,app
+apropos,apropo
+aptes,apt
+apts,apt
+arabidopsis,arabidopsi
+arachnids,arachnid
+aramams,aramam
+archives,archiv
+arduous,arduou
+areas,area
+argues,argu
+arguments,argument
+arises,aris
+aristotle's,aristotle'
+arrangements,arrangement
+arrivals,arrival
+article presents,article present
+artifacts,artifact
+artists,artist
+arts,art
+as follows,as follow
+asf's,asf'
+asians,asian
+asides,asid
+asociadas,asociada
+aspect categories,aspect categori
+aspect class,aspect clas
+aspect extraction,ate
+aspect terms,aspect term
+aspect words,aspect word
+aspects,aspect
+asr frameworks,asr framework
+asr models,asr model
+assailants,assailant
+assaults,assault
+assembly process,assembly proces
+assembly processes,assembly proces
+asserts,assert
+assessment tools,assessment tool
+assessments,assessment
+assessors,assessor
+assets,asset
+assignees,assigne
+assigns,assign
+assistants,assistant
+assists,assist
+association rules,association rul
+associations,association
+assortments,assortment
+assumes,assum
+assumptions,assumption
+asynchronous,asynchronou
+at https,at http
+atees,ate
+athletics,athletic
+atlantis,atlanti
+atmospherics,atmospheric
+attachments,attachment
+attackers,attacker
+attacks,attack
+attains,attain
+attempts,attempt
+attention mechanisms,attention mechanism
+attention units,attention unit
+attention weights,attention weight
+attentions,attention
+attitudes,attitud
+attitudes towards,attitudes toward
+attract consumers,attract consumer
+attractions,attraction
+attractiveness,attractivenes
+attracts,attract
+attribute features,attribute featur
+attributes,attribut
+attributions,attribution
+aucs,auc
+audiences,audienc
+audio modalities,audio modaliti
+audio recordings,audio recording
+audio signals,audio signal
+audios,audio
+augmentation techniques,augmentation techniqu
+augmentations,augmentation
+augments,augment
+authorities,authoriti
+authors,author
+autoencoders,autoencoder
+automates,automat
+automatic systems,automatic system
+autonomous,autonomou
+autonomous systems,autonomous system
+autres,autr
+auxiliary tasks,auxiliary task
+av crashes,av crash
+available datasets,available dataset
+avatars,avatar
+avenues,avenu
+averages,averag
+aviation accidents,aviation accident
+avoids,avoid
+avvs,avv
+awareness programs,awareness program
+axes,ax
+axis,axi
+backbones,backbon
+backgrounds,background
+backwoods,backwood
+balances,balanc
+bandits,bandit
+bandura's,bandura'
+bans,ban
+barrages,barrag
+barriers,barrier
+base learners,base learner
+baseline methods,baseline method
+baseline models,baseline model
+bases,bas
+basic emotions,basic emotion
+basis,basi
+bats,bat
+battery packs,battery pack
+bayes,bay
+beats,beat
+beauty ideals,beauty ideal
+becomes,becom
+beginners,beginner
+beginnings,beginning
+begins,begin
+behavior paths,behavior path
+behavior patterns,behavior pattern
+behavior sequences,behavior sequenc
+behavioral intentions,behavioral intention
+behaviors,behavior
+beliefs,belief
+belongs,belong
+benchmark datasets,benchmark dataset
+benchmarking datasets,benchmarking dataset
+benefits,benefit
+bert's,bert'
+best practices,best practic
+best results,best result
+between entities,between entiti
+between humans,between human
+between modalities,between modaliti
+between nodes,between nod
+between streamers,between streamer
+between words,between word
+betweenness,betweennes
+bias,bia
+biases,bia
+bibliometric analysis,bibliometric analysi
+bieos,bieo
+biggraphs,biggraph
+billions,billion
+bilstms,bilstm
+bim models,bim model
+bims,bim
+binary relations,binary relation
+bioinformatics,bioinformatic
+biologists,biologist
+biomarkers,biomarker
+biomedical concepts,biomedical concept
+biomedical entities,biomedical entiti
+biomedical ontologies,biomedical ontologi
+biometrics,biometric
+biotechnologies,biotechnologi
+biphones,biphon
+birds,bird
+bkgs,bkg
+blackness,blacknes
+blends,blend
+blinks,blink
+blocks,block
+bloggers,blogger
+blogs,blog
+bmkgs,bmkg
+boards,board
+boasts,boast
+boats,boat
+bodies,bodi
+body's,body'
+bonds,bond
+bonus,bonu
+books,book
+boosters,booster
+boosts,boost
+boredom proneness,boredom pronenes
+botnets,botnet
+bots,bot
+bottlenecks,bottleneck
+boundaries,boundari
+boxes,box
+branches,branch
+brand relationships,brand relationship
+brands,brand
+breaks,break
+breakthroughs,breakthrough
+breeds,breed
+bridge this,bridge thi
+bridges,bridg
+brings,bring
+broadcasters,host
+broadcasts,siaran
+broadens,broaden
+brokers,broker
+budgets,budget
+buffers,buffer
+bug reports,bug report
+bugs,bug
+buildings,building
+builds,build
+bulletins,bulletin
+burdens,burden
+burns,burn
+business,busines
+businesses,busines
+buyers,buyer
+bypass,bypas
+bytes,byt
+calculates,calculat
+calculations,calculation
+call centers,call center
+calls,call
+calories,calori
+cameras,camera
+campaigns,campaign
+campuses,campus
+canadians,canadian
+cancellations,cancellation
+candidate entities,candidate entiti
+candidates,candidat
+canismes,canism
+cannabinoids,cannabinoid
+cannabis,cannabi
+capabilities,capabiliti
+capacities,capaciti
+capital's,capital'
+capitalizes,capitaliz
+capitals,capital
+capsules,capsul
+captures,captur
+carbon emissions,carbon emission
+cardiologists,cardiologist
+careers,career
+caregivers,caregiver
+cares,car
+carriers,carrier
+carries,carri
+cars,car
+cascades,cascad
+case studies,case studi
+casualties,casualti
+catalysis,catalysi
+categories,categori
+categorisations,categorisation
+categorizes,categoriz
+causal relationships,causal relationship
+causes,caus
+cautious,cautiou
+cbdc's,cbdc'
+ccbs,ccb
+ccks,cck
+ceis,cei
+celebrations,celebration
+celebrities,celebriti
+celebrity's,celebrity'
+celehs,celeh
+cells,cell
+census,censu
+centeredness,centerednes
+centers,center
+centres,centr
+ceramics,ceramic
+certain groups,certain group
+certificates,certificat
+chain members,chain member
+chain's,chain'
+chains,chain
+challenging problems,challenging problem
+changes,chang
+channels,channel
+chaos,chao
+chapter concludes,chapter conclud
+chapter explores,chapter explor
+character relationships,character relationship
+characteristics,characteristic
+characterizes,characteriz
+characters,character
+charges,charg
+charts,chart
+chases,chas
+chatbots,chatbot
+chatgpt's,chatgpt'
+chatgptcyberthreats,chatgptcyberthreat
+chatgpthackers,chatgpthacker
+chats,chat
+checkers,checker
+checks,check
+chelles,chell
+chemicals,chemical
+children's,children'
+china's,china'
+chinese,cn
+chinese characters,chinese character
+chinese netizens,chinese netizen
+chinese texts,chinese text
+chips,chip
+choices,choic
+chooses,choos
+chopsticks,chopstick
+ciencias,ciencia
+cigarettes,cigarett
+cigarillos,cigarillo
+cigars,cigar
+cii's,cii'
+cipd's,cipd'
+circles,circl
+circuits,circuit
+circumstances,circumstanc
+citations,citation
+cites,cit
+cities,citi
+citizens,citizen
+citoyens,citoyen
+ckgs,ckg
+claims,claim
+clarifies,clarifi
+class,clas
+classes,clas
+classical classifiers,classical classifier
+classification tasks,classification task
+classifications,classification
+classifiers,classifier
+classifies,classifi
+classrooms,classroom
+clauses,claus
+clicks,click
+clients,client
+clinicaltrials,clinicaltrial
+clinicians,clinician
+cliniciens,clinicien
+cliniques,cliniqu
+clips,clip
+clkgs,clkg
+closeness,closenes
+clouds,cloud
+clues,clu
+clustering algorithms,clustering algorithm
+clusters,cluster
+cmds,cmd
+cnes,cn
+cnns,cnn
+coaches,coach
+coalitions,coalition
+codecs,codec
+coders,coder
+codes,cod
+coefficients,coefficient
+coexists,coexist
+cognitions,cognition
+cognitive biases,cognitive bias
+cohen's,cohen'
+cohorts,cohort
+coincides,coincid
+collaborations,collaboration
+collaborators,collaborator
+collars,collar
+collections,collection
+collects,collect
+college students,college student
+colleges,colleg
+collins,collin
+collisions,collision
+collocations,collocation
+colorfulness,colorfulnes
+colors,color
+columns,column
+combinations,combination
+combines,combin
+comes,com
+comics,comic
+commanders,commander
+commands,command
+comment,chat
+comment sentences,comment sentenc
+commentaries,commentari
+commenters,commenter
+commerce platforms,commerce platform
+commerce's,commerce'
+commercial tweets,commercial tweet
+commission rates,commission rat
+commissions,gmv
+commodifies,commodifi
+commodities,commoditi
+common themes,common them
+commonalities,commonaliti
+commons,common
+communications,communication
+communicators,communicator
+communities,communiti
+communityhttps,communityhttp
+comorbidities,comorbiditi
+compactness,compactnes
+companies,compani
+companions,companion
+comparable results,comparable result
+comparative analysis,comparative analysi
+comparative experiments,comparative experiment
+compass,compas
+compels,compel
+compensates,compensat
+compensation plans,compensation plan
+competencies,competenci
+competency questions,competency question
+competitions,competition
+competitive results,competitive result
+competitiveness,competitivenes
+competitors,competitor
+compiles,compil
+complements,complement
+completeness,completenes
+completes,complet
+complex interactions,complex interaction
+complex questions,complex question
+complex relations,complex relation
+complex relationships,complex relationship
+complexities,complexiti
+complexwebquestions,complexwebquestion
+complicates,complicat
+complications,complication
+compositions,composition
+compounds,compound
+comprehends,comprehend
+comprehensive evaluations,comprehensive evaluation
+comprehensive experiments,comprehensive experiment
+comprehensiveness,comprehensivenes
+compress,compres
+compresses,compres
+comprises,compris
+compromises,compromis
+computational costs,computational cost
+computational linguistics,cl
+computational methods,computational method
+computational resources,computational resourc
+computations,computation
+computers,computer
+computes,comput
+concatenates,concatenat
+concepts,concept
+conceptualizations,conceptualization
+conceptualizes,conceptualiz
+concerns,concern
+conclusiones,conclusion
+conclusions this,conclusions thi
+concurrences,concurrenc
+conditionings,conditioning
+conditionnements,conditionnement
+conditions,condition
+conducted experiments,conducted experiment
+conducts,conduct
+conferences,conferenc
+configurations,configuration
+confines,confin
+confirms,confirm
+conflicts,conflict
+conformers,conformer
+conforms,conform
+confronts,confront
+conjunctions,conjunction
+conjunctivitis,conjunctiviti
+conjunctivitis outbreaks,conjunctivitis outbreak
+connections,connection
+connects,connect
+connotations,connotation
+cons,con
+conscientiousness,conscientiousnes
+conscious,consciou
+consciousness,consciousnes
+consensus,consensu
+consequences,consequenc
+conservationists,conservationist
+considerations,consideration
+considers,consider
+consistently outperforms,consistently outperform
+consists,consist
+consolidates,consolidat
+consommables,consommabl
+conspiracies,conspiraci
+conspiracy theories,conspiracy theori
+constituency trees,constituency tre
+constituents,constituent
+constrains,constrain
+constraints,constraint
+constructions,construction
+constructs,construct
+consultants,consultant
+consumer goods,consumer good
+consumer returns,consumer return
+consumer surplus,consumer surplu
+consumer's,consumer'
+consumers,consumer
+consumes,consum
+contagious,contagiou
+contains,contain
+contemplates,contemplat
+content creator,host
+content creators,host
+content moderation,t&s
+contents,
+context words,context word
+contextes,context
+contexts,context
+contextual relationships,contextual relationship
+contextual semantics,contextual semantic
+contextual words,contextual word
+continues,continu
+continuous,continuou
+contraceptives,contraceptiv
+contractions,contraction
+contracts,contract
+contrastive loss,contrastive los
+contrasts,contrast
+contributes,contribut
+contribution weights,contribution weight
+contributors,contributor
+control measures,control measur
+controls,control
+controversies,controversi
+conversational agents,conversational agent
+conversations,conversation
+conversion,atc
+converts,convert
+conveys,convey
+convolution operations,convolution operation
+convolutional networks,convolutional network
+coordinates,coordinat
+copes,cop
+coping strategies,coping strategi
+core modules,core modul
+coreference,coref
+coreference resolution,coref
+corners,corner
+coronavirus,coronaviru
+coronaviruses,coronaviru
+corpus,corpu
+corpuses,corpu
+corrections,correction
+correctness,correctnes
+correlates,correlat
+correlations,correlation
+correspondences,correspondenc
+corresponds,correspond
+corroborates,corroborat
+costs,cost
+councils,council
+counselors,counselor
+countermeasures,countermeasur
+counternarratives,counternarrativ
+counterparts,counterpart
+countless,countles
+countries,countri
+country's,country'
+counts,count
+courts,court
+coverings,covering
+covers,cover
+cpps,cpp
+cpus,cpu
+crafts,craft
+crawlers,crawler
+crcees,crce
+creams,cream
+creates,creat
+creations,creation
+creator,host
+creator demographics,creator demographic
+creator economy,gmv
+creators,host
+creatrepreneurs,creatrepreneur
+credentials,credential
+crimes,crim
+criminals,criminal
+crises,cris
+crisis,crisi
+crisis scenarios,crisis scenario
+critical gaps,critical gap
+criticisms,criticism
+critiques,critiqu
+cronquestions,cronquestion
+cross,cros
+crowds,crowd
+cryptocurrencies,cryptocurrenci
+csam creators,csam creator
+csam posts,csam post
+cshs,csh
+cssms,cssm
+csvs,csv
+ctps,ctp
+cuentas,cuenta
+cues,cu
+cultures,cultur
+cumulative views,cumulative view
+curated datasets,curated dataset
+curious,curiou
+current approaches,current approach
+current challenges,current challeng
+current limitations,current limitation
+current status,current statu
+current trends,current trend
+customer's,customer'
+customers,customer
+customizations,customization
+cyber threats,cyber threat
+cyberattacks,cyberattack
+cyberbullies,cyberbulli
+cybersecurity policies,cybersecurity polici
+cycles,cycl
+cystitis,cystiti
+daily lives,daily liv
+damages,damag
+dangerous,dangerou
+dangers,danger
+dans,dan
+dashboards,dashboard
+data analytics,data analytic
+data augmentation,eda
+data points,data point
+data sets,
+data sources,data sourc
+data's,data'
+databases,databas
+datanets,datanet
+dataset comprises,dataset compris
+dataset contains,dataset contain
+dataset sizes,dataset siz
+dataset's,dataset'
+datasets demonstrates,datasets demonstrat
+dateurs,dateur
+davies,davi
+days,day
+deaths,death
+debates,debat
+decades,decad
+decays,decay
+dechambeau's,dechambeau'
+decides,decid
+decisions,decision
+declarations,declaration
+declines,declin
+decoders,decoder
+decodes,decod
+decommodifies,decommodifi
+decomposes,decompos
+decouples,decoupl
+decreases,decreas
+decrements,decrement
+dedicates,dedicat
+deep semantics,deep semantic
+deepens,deepen
+deepfake videos,deepfake video
+deepfakes,deepfak
+defenders,defender
+defense strategies,defense strategi
+defense's,defense'
+defenses,defens
+deficiencies,deficienci
+deficits,deficit
+defines,defin
+definitions,definition
+deforms,deform
+degrades,degrad
+degrees,degre
+dehumanises,dehumanis
+delays,delay
+delivers,deliver
+delves,delv
+demanders,demander
+demands,demand
+dementias,dementia
+democrats,democrat
+demographics,demographic
+demonstrations,demonstration
+demotivators,demotivator
+denotes,denot
+dental implants,dental implant
+dentalimplants,dentalimplant
+dentists,dentist
+departments,department
+dependencies,dependenci
+dependency,dependenci
+dependency graphs,dependency graph
+dependency labels,dependency label
+dependency parsing,dependenci
+dependency relation,relation
+dependency relations,relation
+dependency trees,dependency tre
+depends,depend
+depictions,depiction
+depicts,depict
+deploys,deploy
+deposits,deposit
+derives,deriv
+dermatitis,dermatiti
+dermatologists,dermatologist
+des adolescents,des adolescent
+describes,describ
+descriptive norms,descriptive norm
+descriptive statistics,descriptive statistic
+descriptors,descriptor
+deserves,deserv
+design codes,design cod
+designers,designer
+designs,design
+desires,desir
+destinations,destination
+detailed analysis,detailed analysi
+details,detail
+detectors,detector
+detects,detect
+determinants,determinant
+determinations,determination
+determines,determin
+detriments,detriment
+developers,developer
+developments,development
+develops,develop
+deviations,deviation
+devices,devic
+diabetes,diabet
+diagnoses,diagnos
+diagnosis,diagnosi
+diagnostics,diagnostic
+diagrams,diagram
+dialects,dialect
+dialogs,dialog
+dialogue systems,dialogue system
+dialogues,dialogu
+dicales,dical
+dictionaries,dictionari
+dieting videos,dieting video
+dietpills,dietpill
+diets,diet
+differences,differenc
+different aspects,different aspect
+different channels,different channel
+different diseases,different diseas
+different domains,different domain
+different languages,different languag
+different layers,different layer
+different levels,different level
+different modalities,different modaliti
+different modes,different mod
+different perspectives,different perspectiv
+different regions,different region
+different types,different typ
+different ways,different way
+different weights,different weight
+differentiates,differentiat
+differs,differ
+difficulties,difficulti
+diffuses,diffus
+diffusion models,diffusion model
+digital celebrities,digital celebriti
+digital platforms,digital platform
+digital spaces,digital spac
+digital technologies,digital technologi
+dilemmas,dilemma
+dimensions,dimension
+diminishes,diminish
+directions,direction
+directives,directiv
+directly affects,directly affect
+directs,direct
+disabilities,disabiliti
+disadvantageous,disadvantageou
+disadvantages,disadvantag
+disagreements,disagreement
+disambiguates,disambiguat
+disaster loss,disaster los
+disaster losses,disaster los
+disasters,disaster
+disastrous,disastrou
+discards,discard
+discern scores,discern scor
+disciplines,disciplin
+disclosures,disclosur
+disconnects,disconnect
+discounts,discount
+discourses,discours
+discoveries,discoveri
+discovers,discover
+discrepancies,discrepanci
+discriminates,discriminat
+discriminative features,discriminative featur
+discriminators,discriminator
+discuss,discus
+discusses,discus
+disease diagnosis,disease diagnosi
+disease patients,disease patient
+diseases,diseas
+disentangles,disentangl
+dislikes,dislik
+disorders,disorder
+disparages,disparag
+disparities,dispariti
+dispatchers,dispatcher
+displays,display
+disputes,disput
+disruptions,disruption
+disrupts,disrupt
+dissatisfiers,dissatisfier
+disseminates,disseminat
+dissonances,dissonanc
+distances,distanc
+distant supervision,snorkel
+distinct representations,distinct representation
+distinctions,distinction
+distinctiveness,distinctivenes
+distinguishes,distinguish
+distortionless,distortionles
+distortions,distortion
+distractions,distraction
+distractors,distractor
+distress,distres
+distributions,distribution
+distributors,distributor
+disturbances,disturbanc
+divergences,divergenc
+diverges,diverg
+diverse applications,diverse application
+diverse domains,diverse domain
+diverse modalities,diverse modaliti
+diverse sources,diverse sourc
+diverses,divers
+dives,div
+divides,divid
+divisions,division
+dl architectures,dl architectur
+dl techniques,dl techniqu
+dlbs,dlb
+dnns,dnn
+dobbs,dobb
+doctors,doctor
+documents,document
+docuseries,docuseri
+doe's,doe'
+dogs,dog
+dollars,dollar
+domain experts,domain expert
+domain's,domain'
+domaines,domain
+domains,domain
+dominantes,dominant
+dominants,dominant
+dominates,dominat
+dooms,doom
+doors,door
+doritos,dorito
+doubts,doubt
+downsides,downsid
+downstream applications,downstream application
+downstream tasks,downstream task
+drawbacks,drawback
+draws,draw
+drifts,drift
+drinks,drink
+drivers,driver
+drives,driv
+droits,droit
+drug reviews,drug review
+drug's,drug'
+drugs,drug
+dryness,drynes
+dual quaternions,dual quaternion
+duets,duet
+duetters,duetter
+duplicates,duplicat
+during crises,during cris
+dynamic changes,dynamic chang
+dynamic environments,dynamic environment
+dynamically fuses,dynamically fus
+dynamics,dynamic
+dynamiques,dynamiqu
+early adopters,early adopter
+earnings,earning
+easy access,easy acces
+eating disorders,eating disorder
+ecas,eca
+echo chambers,echo chamber
+ecologies,ecologi
+economic benefits,economic benefit
+economics,economic
+economies,economi
+ecosystems,ecosystem
+edge labels,edge label
+edges,edg
+editorials,editorial
+edos,edo
+educational materials,educational material
+educational videos,educational video
+educator's,educator'
+educators,educator
+eeg signals,eeg signal
+effectively captures,effectively captur
+effectively improves,effectively improv
+effectively integrates,effectively integrat
+effectively reduces,effectively reduc
+effets,effet
+efficacious,efficaciou
+efforts,effort
+ehrs,ehr
+eigenvalues,eigenvalu
+einstein's,einstein'
+elaborates,elaborat
+elections,election
+electronics,electronic
+elements,element
+elevenlabs,elevenlab
+elicits,elicit
+eligible videos,eligible video
+eliminates,eliminat
+ellipsiprymnus,ellipsiprymnu
+elucidates,elucidat
+emails,email
+embarks,embark
+embedded vectors,embedded vector
+embeddedness,embeddednes
+embedding dimensions,embedding dimension
+embedding models,embedding model
+embedding representations,embedding representation
+embedding spaces,embedding spac
+embedding vectors,embedding vector
+embeddings,embedding
+embeds,embed
+embodies,embodi
+emergencies,emergenci
+emergency calls,emergency call
+emergency measures,emergency measur
+emergency responders,emergency responder
+emergency strategies,emergency strategi
+emerges,emerg
+emerging entities,emerging entiti
+emerging technologies,emerging technologi
+emerging trends,emerging trend
+emgs,emg
+emissions,emission
+emojis,emoji
+emote,emoji
+emoticons,emoji
+emotion recognition,ate
+emotion states,emotion stat
+emotional cues,emotional cu
+emotional distress,emotional distres
+emotional expressions,emotional expression
+emotional factors,emotional factor
+emotional nuances,emotional nuanc
+emotional reactions,emotional reaction
+emotional responses,emotional respons
+emotional states,emotional stat
+emotions,emotion
+emphases,emphas
+emphasis,emphasi
+emphasises,emphasi
+emphasizes,emphasiz
+empirical analysis,empirical analysi
+empirical findings,empirical finding
+empirical insights,empirical insight
+empirical results,empirical result
+empirical studies,empirical studi
+employees,employe
+employs,employ
+empowers,empower
+emvis,emvi
+enables,enabl
+encapsulates,encapsulat
+encoders,encoder
+encodes,encod
+encodings,encoding
+encompass,encompas
+encompasses,encompas
+encounters,encounter
+encourages,encourag
+encyclopedias,encyclopedia
+end users,end user
+endeavors,endeavor
+endeavours,endeavour
+endless,endles
+endocrinologists,endocrinologist
+endometriosis,endometriosi
+endorsements,endorsement
+endorsers,endorser
+endpoints,endpoint
+ends,end
+energy's,energy'
+enforcement's,enforcement'
+enforces,enforc
+engagement,er
+engagement behaviors,engagement behavior
+engagement metrics,engagement metric
+engagement services,engagement servic
+engagements,er
+engenders,engender
+engineering patterns,engineering pattern
+engineers,engineer
+engines,engin
+english,en
+english language,en
+enhancements,enhancement
+enhances,enhanc
+enormous,enormou
+enriches,enrich
+enrichments,enrichment
+ensures,ensur
+entails,entail
+enterprises,enterpris
+enthusiasts,enthusiast
+entices,entic
+entire process,entire proces
+entities,entiti
+entity,entiti
+entity disambiguation,nel
+entity embeddings,entity embedding
+entity linking,nel
+entity mentions,entity mention
+entity pairs,entity pair
+entity recognition,ner
+entity representations,entity representation
+entity resolution,deduplication
+entity types,entity typ
+entrepreneurs,entrepreneur
+entries,entri
+environmental conditions,environmental condition
+environments,environment
+enzymes,enzym
+eopd's,eopd'
+epidemics,epidemic
+epochs,epoch
+epss,eps
+equals,equal
+equations,equation
+ernie's,ernie'
+errands,errand
+erroneous,erroneou
+error analysis,error analysi
+erythematosus,erythematosu
+escalates,escalat
+esports,esport
+establishes,establish
+estas,esta
+estimates,estimat
+estimators,estimator
+estudiantes,estudiant
+ethical considerations,ethical consideration
+ethical implications,ethical implication
+ethical issues,ethical issu
+ethics,ethic
+ethnic groups,ethnic group
+ethnicities,ethniciti
+evaluates,evaluat
+evaluation metrics,evaluation metric
+evaluation standards,evaluation standard
+evaluators,evaluator
+event extraction,ie
+events,event
+everyone's,everyone'
+evidences,evidenc
+evolutions,evolution
+evolves,evolv
+examinations,examination
+examines,examin
+examples,exampl
+excavates,excavat
+exceeds,exceed
+excels,excel
+exceptions,exception
+excess,exces
+exchanges,exchang
+exclusiveness,exclusivenes
+executes,execut
+exemplars,exemplar
+exemplifies,exemplifi
+exercises,exercis
+exhibitionists,exhibitionist
+exhibits,exhibit
+existing approaches,existing approach
+existing baselines,existing baselin
+existing drugs,existing drug
+existing methods,existing method
+existing models,existing model
+existing ones,existing on
+existing solutions,existing solution
+existing studies,existing studi
+existing surveys,existing survey
+existing works,existing work
+exists,exist
+exotic pets,exotic pet
+expands,expand
+expectations,expectation
+experiences,experienc
+experiment results,experiment result
+experimental evaluations,experimental evaluation
+experimental findings,experimental finding
+experts,expert
+explains,explain
+explanations,explanation
+exploits,exploit
+explorations,exploration
+explores,explor
+expos,expo
+exposes,expo
+express,expres
+express concerns,express concern
+express themselves,express themselv
+expresses,expres
+expressions,expression
+expressiveness,expressivenes
+extends,extend
+extensions,extension
+extensive evaluations,extensive evaluation
+extensive experiments,extensive experiment
+extents,extent
+extracted keywords,extracted keyword
+extracting relations,extracting relation
+extracting triples,extracting tripl
+extraction techniques,extraction techniqu
+extractions,extraction
+extracts,extract
+extraneous,extraneou
+extraverts,extravert
+eyes,ey
+face challenges,face challeng
+face numerous,face numerou
+facebook's,facebook'
+faceforensics,faceforensic
+faces,fac
+faces challenges,faces challeng
+facets,facet
+facial expressions,facial expression
+facial images,facial imag
+facilitates,facilitat
+facilities,faciliti
+fact triples,fact tripl
+factitious,factitiou
+factor representations,factor representation
+factories,factori
+factors,factor
+facts,fact
+faibles,faibl
+fails,fail
+failure modes,failure mod
+failures,failur
+fair principles,fair principl
+fairness,fairnes
+fake news,fake new
+fake reviews,fake review
+fakes,fak
+falls,fall
+false positives,false positiv
+falsehoods,falsehood
+families,famili
+famous,famou
+fanourakis,fanouraki
+fares,far
+farmers,farmer
+farms,farm
+fatalities,fataliti
+fatigues,fatigu
+fault diagnosis,fault diagnosi
+faults,fault
+favorites,like
+favors,favor
+favourites,favourit
+feature extractors,feature extractor
+feature interactions,feature interaction
+feature representations,feature representation
+feature sets,feature set
+feature vectors,feature vector
+features,featur
+feedbacks,feedback
+feeds,feed
+feelings,feeling
+females,femal
+fenses,fens
+fertility awareness,fertility awarenes
+few studies,few studi
+few years,few year
+fgis,fgi
+fibroids,fibroid
+fields,field
+figas,figa
+fights,fight
+figurations,figuration
+figures,figur
+files,fil
+fill this,fill thi
+fills,fill
+film's,film'
+filters,t&s
+finalizes,finaliz
+finances,financ
+financial distress,financial distres
+finds,find
+fines,fin
+finfluencers,finfluencer
+fingerprints,fingerprint
+firefighters,firefighter
+firm's,firm'
+firms,firm
+first employs,first employ
+first generates,first generat
+fisher's,fisher'
+fitness,fitnes
+fits,fit
+five categories,five categori
+fixed effects,fixed effect
+fixes,fix
+flash sales,flash sal
+flashcards,flashcard
+flavors,flavor
+flaws,flaw
+fleiss,fleis
+flood process,flood proces
+floods,flood
+flows,flow
+floyd's,floyd'
+fluctuations,fluctuation
+focus,focu
+focuses,focu
+fois,foi
+follow,subs
+follows,subs
+fonts,font
+foodis,foodi
+foods,food
+footprints,footprint
+for brands,for brand
+for seizures,for seizur
+forces,forc
+forecasts,forecast
+forensic investigations,forensic investigation
+forensic techniques,forensic techniqu
+forensics,forensic
+forests,forest
+forgeries,forgeri
+formats,format
+forms,form
+formulas,formula
+formulates,formulat
+formulations,formulation
+fortifies,fortifi
+fortuitous,fortuitou
+forums,forum
+fosters,foster
+foundations,foundation
+four categories,four categori
+fragments,fragment
+frame features,frame featur
+frames,fram
+framework's,framework'
+fraudsters,fraudster
+frequencies,frequenci
+fresh insights,fresh insight
+fresh perspectives,fresh perspectiv
+freud's,freud'
+fridays,friday
+friendliness,friendlines
+friends,friend
+friendships,friendship
+from transformers,from transformer
+frontiers,frontier
+fuentes,fuent
+full texts,full text
+fully exploits,fully exploit
+fully leverages,fully leverag
+fumeus,fumeu
+functionalities,functionaliti
+functions,function
+fundamentals,fundamental
+furnishes,furnish
+fuses,fus
+fusion process,fusion proces
+fusion strategies,fusion strategi
+fusions,fusion
+future directions,future direction
+future generations,future generation
+future studies,future studi
+fuzzy terms,fuzzy term
+gadgets,gadget
+gain insights,gain insight
+gains,gain
+gallows,gallow
+gallstones,gallston
+games,gam
+gans,gan
+gaps,gap
+garners,garner
+gases,gas
+gastronomic images,gastronomic imag
+gastropubs,gastropub
+gatekeepers,gatekeeper
+gateways,gateway
+gats,gat
+gauges,gaug
+gcns,gat
+gdts,gdt
+genai tools,genai tool
+genderaffirminghormones,genderaffirminghormon
+genders,gender
+general users,general user
+generalists,generalist
+generalization capabilities,generalization capabiliti
+generalizations,generalization
+generalizes,generaliz
+generates,generat
+generates questions,generates question
+generation capabilities,generation capabiliti
+generations,generation
+generative models,generative model
+generators,generator
+genes,gen
+genetics,genetic
+genggengcss,genggengcs
+genomes,genom
+genres,genr
+geographic entities,geographic entiti
+geographic regions,geographic region
+geographies,geographi
+geological entities,geological entiti
+geological profiles,geological profil
+geological terms,geological term
+geological texts,geological text
+geologists,geologist
+geosciences,geoscienc
+geoscientists,geoscientist
+germs,germ
+gerunds,gerund
+gets,get
+ggp's,ggp'
+giants,giant
+gies,gi
+gift,tip
+girls,girl
+given aspects,given aspect
+gives,giv
+glamorous,glamorou
+glances,glanc
+glms,glm
+glyphs,glyph
+gnns,gat
+goes,go
+goods,good
+government interventions,government intervention
+government's,government'
+governments,government
+governs,govern
+gpus,gpu
+gqs scores,gqs scor
+gqss,gqs
+graduates,graduat
+grammatical sentences,grammatical sentenc
+grams,gram
+granularities,granulariti
+graph embedding,gat
+graph structures,graph structur
+graphics,graphic
+graphquestions,graphquestion
+graphs,graph
+grasps,grasp
+grassroots,grassroot
+gratifications,gratification
+great success,great succes
+greatly improves,greatly improv
+grids,grid
+grievances,grievanc
+grimness,grimnes
+gross,gros
+grounds,ground
+groupings,grouping
+groups,group
+grows,grow
+guarantees,guarante
+guardrails,guardrail
+guards,guard
+guerres,guerr
+guests,guest
+guidelines,guidelin
+guides,guid
+gyns,gyn
+habits,habit
+hallucinations,hallucination
+hampers,hamper
+handles,handl
+hands,hand
+happens,happen
+happiness,happines
+hard prompts,hard prompt
+hardness,hardnes
+harmfulness,harmfulnes
+harmless,harmles
+harmonics,harmonic
+harmonizes,harmoniz
+harms,harm
+harness,harnes
+harnesses,harnes
+hashtags,hashtag
+hate crimes,hate crim
+hate speech,kasar
+hate tweets,hate tweet
+haters,hater
+hazardous,hazardou
+hazards,hazard
+hcps,hcp
+head entities,head entiti
+head poses,head pos
+headings,heading
+heads,head
+health agencies,health agenci
+health authorities,health authoriti
+health conditions,health condition
+health issues,health issu
+health officials,health official
+health professionals,health professional
+health risks,health risk
+health rumors,health rumor
+health topics,health topic
+healthcare professionals,healthcare professional
+healthcare providers,healthcare provider
+healthy controls,healthy control
+heaps,heap
+heatmaps,heatmap
+hedges,hedg
+heels,heel
+heightens,heighten
+heights,height
+help address,help addres
+help researchers,help researcher
+helplessness,helplessnes
+helplines,helplin
+helps,help
+herramientas,herramienta
+hete gnns,hete gnn
+heterogeneous,heterogeneou
+heterogeneous characteristics,heterogeneous characteristic
+heterogeneous modalities,heterogeneous modaliti
+heuristic rules,heuristic rul
+heuristics,heuristic
+hflts,hflt
+hides,hid
+hierarchies,hierarchi
+high costs,high cost
+higher levels,higher level
+higher profits,higher profit
+highlights,highlight
+hinders,hinder
+hins,hin
+hints,hint
+histories,histori
+hits,hit
+hkgs,hkg
+hobbies,hobbi
+holds,hold
+homogeneous,homogeneou
+homogeneous graphs,homogeneous graph
+homogenous,homogenou
+hopes,hop
+hops,hop
+hospitals,hospital
+hosts,host
+hotels,hotel
+hotlines,hotlin
+hotspots,hotspot
+hours,hour
+houses,hous
+hovland's,hovland'
+how parents,how parent
+how streamers,how streamer
+how teachers,how teacher
+hrdd responsibilities,hrdd responsibiliti
+hres,hr
+htbs,htb
+htps,htp
+htss,hts
+https,http
+human annotators,human annotator
+human beings,human being
+human emotions,human emotion
+human evaluators,human evaluator
+human experts,human expert
+human rights,human right
+human values,human valu
+humanities,humaniti
+humans,human
+humorous,humorou
+hundreds,hundred
+hurts,hurt
+hybrid approaches,hybrid approach
+hybrids,hybrid
+hyland's,hyland'
+hypergraphs,hypergraph
+hypernetworks,hypernetwork
+hypotheses,hypothes
+icews,icew
+idealised bodies,idealised bodi
+ideals,ideal
+ideas,idea
+identifications,identification
+identifiers,identifier
+identifies,identifi
+identifying patterns,identifying pattern
+identities,identiti
+ideologies,ideologi
+ignores,ignor
+illness,illnes
+illnesses,illnes
+illuminates,illuminat
+illustrates,illustrat
+image patches,image patch
+images,imag
+imbalances,imbalanc
+immigrants,immigrant
+immunes,immun
+impairments,impairment
+impairs,impair
+impedes,imped
+impetus,impetu
+implants,implant
+implements,implement
+implications,implication
+implicatures,implicatur
+implicit aspects,implicit aspect
+implicit relationships,implicit relationship
+implies,impli
+imposes,impos
+impressions,impression
+impulsiveness,impulsivenes
+inaccuracies,inaccuraci
+incentives,incentiv
+incentivizes,incentiviz
+incidents,incident
+incites,incit
+includes,includ
+incompleteness,incompletenes
+inconsistencies,inconsistenci
+incorporates,incorporat
+incorrect triplets,incorrect triplet
+increases,increas
+increments,increment
+incurs,incur
+independent reviewers,independent reviewer
+independent variables,independent variabl
+indexes,index
+indicates,indicat
+indications,indication
+indicators,indicator
+indices,indic
+individual differences,individual differenc
+individual modalities,individual modaliti
+individuals,individual
+indonesian,id
+indoors,indoor
+induces,induc
+inductiveness,inductivenes
+industrial applications,industrial application
+industries,industri
+inefficiencies,inefficienci
+inequities,inequiti
+infections,infection
+infectious,infectiou
+inference,top p
+inferences,inferenc
+infers,infer
+influence consumers,influence consumer
+influencer characteristics,influencer characteristic
+influencer's,influencer'
+influencers,host
+influences,influenc
+influencing factors,influencing factor
+influential nodes,influential nod
+influential users,influential user
+infodemiology studies,infodemiology studi
+informatics,informatic
+information extraction,ie
+information retrieval,ir
+information silos,information silo
+informativeness,informativenes
+informed decisions,informed decision
+informs,inform
+infrastructures,infrastructur
+ingenious,ingeniou
+ingredients,ingredient
+inherits,inherit
+inhibitors,inhibitor
+initiatives,initiativ
+injections,injection
+injects,inject
+injuries,injuri
+injustices,injustic
+inmates,inmat
+innovates,innovat
+innovations,innovation
+innovative solutions,innovative solution
+innovativeness,innovativenes
+input features,input featur
+input questions,input question
+inputs,input
+inquiries,inquiri
+insects,insect
+insecurities,insecuriti
+insertions,insertion
+inserts,insert
+insights,
+inspection items,inspection item
+inspections,inspection
+inspectors,inspector
+instagram posts,instagram post
+instances,instanc
+instantaneous,instantaneou
+institutions,institution
+instructions,instruction
+instruments,instrument
+integrates,integrat
+integrating heterogeneous,integrating heterogeneou
+integrating llms,integrating llm
+integrations,integration
+intelligent applications,intelligent application
+intelligent chatbots,intelligent chatbot
+intelligent process,intelligent proces
+intelligent services,intelligent servic
+intelligent systems,intelligent system
+intends,intend
+intensifies,intensifi
+intensions,intension
+intensities,intensiti
+intentions,intention
+intents,intent
+interactions,interaction
+interacts,interact
+interconnectedness,interconnectednes
+interconnections,interconnection
+interconnects,interconnect
+interdependencies,interdependenci
+interesados,interesado
+interest groups,interest group
+interests,interest
+interfaces,interfac
+interferes,interfer
+interlinks,interlink
+intermediaries,intermediari
+intermediate layers,intermediate layer
+interpolates,interpolat
+interpretations,interpretation
+interprets,interpret
+interrelations,interrelation
+interrelationships,interrelationship
+interspecies,interspeci
+intertwines,intertwin
+intervals,interval
+interventions,intervention
+interviewers,interviewer
+into vectors,into vector
+intraclass,intraclas
+intricacies,intricaci
+intricate relationships,intricate relationship
+intrinsic characteristics,intrinsic characteristic
+introduces,introduc
+invades,invad
+inventories,inventori
+inventors,inventor
+investigation reports,investigation report
+investigations,investigation
+investigators,investigator
+investments,investment
+investors,investor
+invests,invest
+invites,invit
+involves,involv
+ir's,ir'
+irrealis,irreali
+irrelevant faces,irrelevant fac
+islands,island
+isolates,isolat
+isps,isp
+issues,issu
+item representations,item representation
+iterations,iteration
+its advantages,its advantag
+its effectiveness,its effectivenes
+iuds,iud
+jeunes,jeun
+jeunes adultes,jeunes adult
+jims,jim
+journalists,journalist
+journals,journal
+journeys,journey
+judgments,judgment
+jurisdictions,jurisdiction
+justifications,justification
+kbqa systems,kbqa system
+kcis,kci
+keeps,keep
+kernels,kernel
+key actors,key actor
+key aspects,key aspect
+key challenges,key challeng
+key components,key component
+key dimensions,key dimension
+key drivers,key driver
+key elements,key element
+key factors,key factor
+key findings,key finding
+key innovations,key innovation
+key sequences,key sequenc
+key technologies,key technologi
+keyframes,keyfram
+keyphrases,keyphras
+keypoints,keypoint
+keywords,keyword
+kg prompts,kg prompt
+kgc methods,kgc method
+kgc tasks,kgc task
+kge models,kge model
+kges,kb
+kgr methods,kgr method
+kids,kid
+kinds,kind
+kiss,kis
+kllms,kllm
+knee injuries,knee injuri
+knowledge base,kb
+knowledge bases,knowledge bas
+knowledge distillation,distillation
+knowledge graph,kb
+knowledge graphs,kb
+knowledge repositories,knowledge repositori
+knows,know
+kobus,kobu
+kol's,kol'
+kols,kol
+kompas,kompa
+kpis,kpi
+labels,label
+laboratories,laboratori
+laborious,laboriou
+labs,lab
+lacks,lack
+landfills,landfill
+landmarks,landmark
+landscapes,landscap
+language model,lm
+language models,lm
+language processing,cl
+language understanding,nlu
+languages,languag
+laptops,laptop
+large amounts,large amount
+large volumes,large volum
+largely depends,largely depend
+las redes,las red
+lasts,last
+latent factors,latent factor
+latent patterns,latent pattern
+latent semantics,latent semantic
+latent spaces,latent spac
+latest advancements,latest advancement
+latest developments,latest development
+launchers,launcher
+launches,launch
+laws,law
+layers,layer
+laypersons,layperson
+lays,lay
+lccs,lcc
+leaders,leader
+leads,lead
+learners,learner
+learning algorithms,learning algorithm
+learning approaches,learning approach
+learning architectures,learning architectur
+learning classifiers,learning classifier
+learning environments,learning environment
+learning models,learning model
+learning techniques,learning techniqu
+learns,learn
+least squares,least squar
+legal implications,legal implication
+legislations,legislation
+lemmatization,lemmatiser
+lengthens,lengthen
+lengths,length
+lens,len
+les jeunes,les jeun
+less,les
+lessons,lesson
+letters,letter
+levels,level
+leverages,leverag
+levers,lever
+lexicons,lexicon
+lhzns,lhzn
+liberties,liberti
+librarians,librarian
+libraries,librari
+lies,li
+life stress,life stres
+lifestyles,lifestyl
+likeness,likenes
+limbs,limb
+limits,limit
+lines,lin
+linguistic features,linguistic featur
+linguistic patterns,linguistic pattern
+linguistic strategies,linguistic strategi
+linguistic structures,linguistic structur
+linguistics,linguistic
+linguists,linguist
+link prediction,gat
+links,link
+lips,lip
+listings,sku
+literatures,literatur
+live broadcast,live room
+live chat,chat
+live commerce,live shop
+live stream,live room
+live streamers,live streamer
+live streaming,live room
+live streams,live room
+lives,liv
+livestream,live room
+livestreams,live room
+llms,llm
+lmms,lmm
+local devices,local devic
+locations,location
+lockdowns,lockdown
+logic rules,logic rul
+logical rules,logical rul
+logics,logic
+logistic regression,logit
+logistics,logistic
+logs,log
+lois,loi
+loneliness,lonelines
+loneliness scores,loneliness scor
+looks,look
+loops,loop
+loras,cot
+los estudiantes,los estudiant
+loss,los
+losses,los
+lossless,lossles
+lots,lot
+lowers,lower
+lres,lr
+lsis,lsi
+lstms,lstm
+lsts,lst
+ltns,ltn
+lupus,lupu
+luxury brands,luxury brand
+lvlms,lvlm
+lyrics,lyric
+machine translation,mt
+machines,machin
+machining process,machining proces
+magazines,magazin
+mahimacs,mahimac
+main challenges,main challeng
+main modules,main modul
+main motivations,main motivation
+main themes,main them
+mainly focus,mainly focu
+mainly focuses,mainly focu
+mains,main
+mainstream methods,mainstream method
+maintains,maintain
+mais,mai
+major challenges,major challeng
+make decisions,make decision
+makers,maker
+makes,mak
+maladies,maladi
+males,mal
+malicious,maliciou
+malignancies,malignanci
+mammals,mammal
+mams,mam
+managerial implications,managerial implication
+managers,manager
+manages,manag
+manifestations,manifestation
+manipulates,manipulat
+manipulations,manipulation
+manual efforts,manual effort
+manuals,manual
+manufacturer's,manufacturer'
+manufacturers,manufacturer
+manufacturing process,manufacturing proces
+manufacturing systems,manufacturing system
+many countries,many countri
+many fields,many field
+many previous,many previou
+many researchers,many researcher
+mapping problems,mapping problem
+mappings,mapping
+maps,map
+markers,marker
+market dynamics,market dynamic
+marketers,marketer
+marketing activities,marketing activiti
+marketing campaigns,marketing campaign
+marketing strategies,marketing strategi
+marketplaces,marketplac
+markets,market
+markings,marking
+marks,mark
+marrakech's,marrakech'
+masks,mask
+maslow's,maslow'
+mass,mas
+massachusetts,massachusett
+masses,mas
+matches,match
+matching pairs,matching pair
+materials,material
+mathematics,mathematic
+matrices,matric
+matrixes,matrix
+mattheus,mattheu
+matures,matur
+maximizes,maximiz
+mayors,mayor
+mdiscern scores,mdiscern scor
+mdts,mdt
+meacorpus,meacorpu
+meals,meal
+meaningful insights,meaningful insight
+meanings,meaning
+measles,measl
+measurements,measurement
+mechanisms,mechanism
+media forensics,media forensic
+media platforms,media platform
+media's,media'
+mediates,mediat
+mediating roles,mediating rol
+mediators,mediator
+medical applications,medical application
+medical conditions,medical condition
+medical professionals,medical professional
+medical providers,medical provider
+medications,medication
+medicines,medicin
+meetings,meeting
+meets,meet
+megaprojects,megaproject
+member's,member'
+members,member
+membership functions,membership function
+memberships,membership
+memes,mem
+memory networks,memory network
+meniscus,meniscu
+menses,mens
+mentaires,mentair
+mental disorders,mental disorder
+mental illness,mental illnes
+mentions,mention
+ments,ment
+menus,menu
+mer systems,mer system
+merchandisers,merchandiser
+merchant employees,merchant employe
+merchants,merchant
+mergers,merger
+merges,merg
+merits,merit
+messages,messag
+messengers,messenger
+metals,metal
+method achieves,method achiev
+method integrates,method integrat
+method outperforms,method outperform
+method's,method'
+methodological approaches,methodological approach
+methodologies,methodologi
+meticulous,meticulou
+mfccs,mfcc
+mfh principles,mfh principl
+mfscs,mfsc
+mgcs,mgc
+mgds,mgd
+micas,mica
+microblogs,microblog
+milestones,mileston
+millennials,millennial
+million comments,million comment
+million likes,million lik
+million shares,million shar
+million views,million view
+millions,million
+mindfulness,mindfulnes
+mindmaps,mindmap
+minerals,mineral
+mines,min
+minimizes,minimiz
+mining tools,mining tool
+ministers,minister
+minorities,minoriti
+minors,minor
+minutes,minut
+miologiques,miologiqu
+misconceptions,misconception
+miss,mis
+misses,mis
+missing entities,missing entiti
+missing facts,missing fact
+missing links,missing link
+missing modalities,missing modaliti
+missing triples,missing tripl
+misspellings,misspelling
+mistakes,mistak
+misunderstandings,misunderstanding
+mitigates,mitigat
+mixtures,mixtur
+mkgs,mkg
+ml models,ml model
+ml techniques,ml techniqu
+ml's,ml'
+mllms,mllm
+mlps,mlp
+mlss,mls
+mmhs,mmh
+mobilizers,mobilizer
+modal features,modal featur
+modal representations,modal representation
+modalities,modaliti
+modality,modaliti
+modas,moda
+model achieves,model achiev
+model outperforms,model outperform
+model performs,model perform
+model's,model'
+moderates,moderat
+moderation,t&s
+moderation tools,moderation tool
+moderators,moderator
+modes,mod
+modifications,modification
+modus,modu
+mofs,mof
+molds,mold
+molecules,molecul
+momentary loneliness,momentary lonelines
+moments,moment
+monetization,gmv
+monetization's,monetization'
+monitoring systems,monitoring system
+moods,mood
+morphology's,morphology'
+most previous,most previou
+motifs,motif
+motivates,motivat
+motivations,motivation
+motivators,motivator
+mountains,mountain
+movement patterns,movement pattern
+movements,movement
+moves,mov
+movielens,movielen
+movies,movi
+moyens,moyen
+mtlhatecorpus,mtlhatecorpu
+mucocutaneous symptoms,mucocutaneous symptom
+multiclass,multiclas
+multilayer networks,multilayer network
+multilingual bert,bert
+multimodal representations,multimodal representation
+multimodal sentiment,mer
+multiomics,multiomic
+multiple aspects,multiple aspect
+multiple dimensions,multiple dimension
+multiple domains,multiple domain
+multiple entities,multiple entiti
+multiple languages,multiple languag
+multiple modalities,multiple modaliti
+multiple perspectives,multiple perspectiv
+multiple scales,multiple scal
+multiple sentences,multiple sentenc
+multiple sources,multiple sourc
+multiple ways,multiple way
+multiplications,multiplication
+murders,murder
+museths,museth
+musicians,musician
+mutations,mutation
+n gram,ngram
+naive bayes,nb
+named entities,named entiti
+names,nam
+nanoinfluencers,nanoinfluencer
+narcissists,narcissist
+narrations,narration
+narratives,narrativ
+narrows,narrow
+nationalities,nationaliti
+nations,nation
+natural products,natural product
+naturalness,naturalnes
+ncds,ncd
+ndds,ndd
+necessitates,necessitat
+needs,need
+negation words,negation word
+negative effects,negative effect
+negative emotions,negative emotion
+negative impacts,negative impact
+negative interests,negative interest
+negative samples,negative sampl
+negative sampling,hard negatives
+negative sentiments,negative sentiment
+negatively moderates,negatively moderat
+negatives,negativ
+neglects,neglect
+neighborhood nodes,neighborhood nod
+neighborhoods,neighborhood
+neighboring nodes,neighboring nod
+neighbors,neighbor
+neighbours,neighbour
+nested entities,nested entiti
+netherlands,netherland
+netizens,netizen
+network architectures,network architectur
+networks,network
+neural networks,neural network
+neurons,neuron
+neurosciences,neuroscienc
+neurosurgeons,neurosurgeon
+neutral sentiments,neutral sentiment
+neutralizes,neutraliz
+neutrosophic sets,neutrosophic set
+nevertheless,nevertheles
+new avenues,new avenu
+new links,new link
+newness,newnes
+news,new
+news agencies,news agenci
+news articles,news articl
+newspapers,newspaper
+newsrooms,newsroom
+niches,nich
+nicotine sickness,nicotine sicknes
+nlp tasks,nlp task
+nlqs,nlq
+nltk's,nltk'
+no differences,no differenc
+node embeddings,gat
+node representations,node representation
+nodes,nod
+noise issues,noise issu
+noiseless,noiseles
+noises,nois
+noisiness,noisines
+noisy environments,noisy environment
+noisy instances,noisy instanc
+noisy signals,noisy signal
+noncardiologists,noncardiologist
+noncreators,noncreator
+nonetheless,nonetheles
+nonexperts,nonexpert
+nonferrous metals,nonferrous metal
+nonparticipants,nonparticipant
+nonprofessionals,nonprofessional
+nonviewers,nonviewer
+normalization,nfc
+norms,norm
+not always,not alway
+notable improvements,notable improvement
+notes,not
+notifications,notification
+nouns,noun
+nouvelles,nouvell
+novels,novel
+novelties,novelti
+novices,novic
+nowadays,nowaday
+npdis,npdi
+ntps,ntp
+nuances,nuanc
+nucs,nuc
+nuevas,nueva
+numbers,number
+numerous,numerou
+numerous challenges,numerous challeng
+nurses,nurs
+nutrients,nutrient
+oacis,oaci
+obgyns,obgyn
+objectifs,objectif
+objective this,objective thi
+objects,object
+objets,objet
+obligations,obligation
+observers,observer
+observes,observ
+obstacles,obstacl
+obtains,obtain
+obviates,obviat
+obvious,obviou
+occasions,occasion
+occupants,occupant
+occurrences,occurrenc
+occurs,occur
+ocrs,ocr
+octopus,octopu
+odds,odd
+offensive language,kasar
+offensiveness,offensivenes
+offer insights,offer insight
+offering insights,offering insight
+offerings,offering
+offers,offer
+offers insights,offers insight
+officers,officer
+officials,official
+offs,off
+offsets,offset
+often fails,often fail
+often leads,often lead
+often relies,often reli
+oilfields,oilfield
+oils,oil
+okbs,okb
+olas,ola
+older adults,older adult
+omics,omic
+one's,one'
+ones,on
+online communities,online communiti
+online courses,online cours
+online marketplaces,online marketplac
+online platforms,online platform
+online retailers,online retailer
+online reviews,online review
+online sources,online sourc
+online spaces,online spac
+online viewers,online viewer
+onsets,onset
+ontologies,ontologi
+ontologists,ontologist
+open challenges,open challeng
+openai's,openai'
+openkgs,openkg
+openness,opennes
+opens,open
+operates,operat
+operations,operation
+operators,operator
+opinion mining,ate
+opinion terms,opinion term
+opinion words,opinion word
+opinions,opinion
+opioids,opioid
+opoes,opo
+opponents,opponent
+opportunities,opportuniti
+optimization techniques,optimization techniqu
+optimizations,optimization
+optimizes,optimiz
+options,option
+or phrases,or phras
+or services,or servic
+ordos,ordo
+organizations,organization
+organizers,organizer
+organizes,organiz
+organs,organ
+orientations,orientation
+originators,originator
+oriques,oriqu
+orthodontists,orthodontist
+orthopedics,orthopedic
+osns,osn
+osteoporosis,osteoporosi
+ostomates,ostomat
+ostomies,ostomi
+other baselines,other baselin
+other diseases,other diseas
+other languages,other languag
+other's,other'
+others,other
+otolaryngologists,otolaryngologist
+our experiments,our experiment
+our findings,our finding
+outbreaks,outbreak
+outcomes,outcom
+outdoors,outdoor
+outlets,outlet
+outlines,outlin
+outnumbers,outnumber
+outperforms previous,outperforms previou
+output values,output valu
+outputs,output
+ovalytics,ovalytic
+overcomes,overcom
+overlapping triples,overlapping tripl
+overlooks,overlook
+overrepresentations,overrepresentation
+overviews,overview
+owner's,owner'
+owners,owner
+ozempicforweightloss,ozempicforweightlos
+packages,packag
+packet loss,packet los
+packets,packet
+pages,pag
+paints,paint
+pairs,
+pandas,panda
+pandemics,pandemic
+panels,panel
+paper aims,paper aim
+paper describes,paper describ
+paper discusses,paper discuss
+paper examines,paper examin
+paper explores,paper explor
+paper focuses,paper focus
+paper introduces,paper introduc
+paper investigates,paper investigat
+paper offers,paper offer
+paper presents,paper present
+paper proposes,paper propos
+paper provides,paper provid
+paper uses,paper us
+papillomavirus,papillomaviru
+paradigms,paradigm
+paradoxes,paradox
+paragraphs,paragraph
+paralinguistics,paralinguistic
+parameters,parameter
+paraphrases,paraphras
+parents,parent
+paris,pari
+parkinson's,parkinson'
+parks,park
+parsers,parser
+parsimonious,parsimoniou
+part of speech,ate
+participles,participl
+particular focus,particular focu
+parties,parti
+partners,partner
+partnerships,partnership
+parts,part
+pass,pas
+passes,pas
+past years,past year
+patents,patent
+pathogenesis,pathogenesi
+paths,path
+pathways,pathway
+patient experiences,patient experienc
+patient reviews,patient review
+patients,patient
+patterns,pattern
+paves,pav
+pays,pay
+pcds,pcd
+pdfs,pdf
+peaks,peak
+peculiarities,peculiariti
+pedagogies,pedagogi
+pediatrics,pediatric
+peers,peer
+peft,cot
+pens,pen
+people's,people'
+perceived benefits,perceived benefit
+perceived stress,perceived stres
+perceived usefulness,perceived usefulnes
+percentage points,percentage point
+perceptions,perception
+perceptrons,perceptron
+performance gains,performance gain
+performance improvements,performance improvement
+performances,performanc
+performs,perform
+perhaps,perhap
+periodontologists,periodontologist
+permis,permi
+perpetrators,perpetrator
+perpetuates,perpetuat
+persists,persist
+person's,person'
+personal accounts,personal account
+personal experiences,personal experienc
+personal stories,personal stori
+personalities,personaliti
+personality traits,personality trait
+personalized recommendations,personalized recommendation
+personalized services,personalized servic
+personas,persona
+persons,person
+perspectives,perspectiv
+persuaders,persuader
+persuades,persuad
+persuasions,persuasion
+persuasiveness,persuasivenes
+pertains,pertain
+perturbations,perturbation
+pests,pest
+pets,pet
+phases,phas
+phataginus,phataginu
+phenomics,phenomic
+phenotypes,phenotyp
+philippines,philippin
+phonemes,phonem
+phonetics,phonetic
+phrases,phras
+physicians,physician
+physics,physic
+physiological signals,physiological signal
+physiotherapists,physiotherapist
+pictures,pictur
+pieces,piec
+pioneers,pioneer
+pistes,pist
+pixels,pixel
+pkgs,pkg
+places,plac
+planners,planner
+plans,plan
+platform strategies,platform strategi
+platform's,platform'
+players,player
+playfulness,playfulnes
+plays,play
+plms,plm
+plotlines,plotlin
+plots,plot
+plus,plu
+pnets,pnet
+points,point
+pois,poi
+polarities,polariti
+policies,polici
+policy interventions,policy intervention
+policy makers,policy maker
+policy recommendations,policy recommendation
+policymakers,policymaker
+politicians,politician
+politics,politic
+politiques,politiqu
+polysemous,polysemou
+poms,pom
+pontryagin's,pontryagin'
+pools,pool
+population's,population'
+populations,population
+poques,poqu
+porous,porou
+portrayals,portrayal
+portrays,portray
+poses,ate
+poses challenges,poses challeng
+posing challenges,posing challeng
+positions,position
+positive effects,positive effect
+positive pairs,positive pair
+positive samples,positive sampl
+positive sentiments,positive sentiment
+positively affects,positively affect
+positively moderates,positively moderat
+positives,positiv
+posits,posit
+possess,posses
+possesses,posses
+possibilities,possibiliti
+posters,poster
+postings,posting
+posts,post
+potencies,potenci
+potential areas,potential area
+potential biases,potential bias
+potential risks,potential risk
+potential solutions,potential solution
+potentials,potential
+pouvoirs,pouvoir
+power's,power'
+powerful tools,powerful tool
+powers,power
+practical applications,practical application
+practical implications,practical implication
+practical insights,practical insight
+practical recommendations,practical recommendation
+practices,practic
+practitioners,practitioner
+precariousness,precariousnes
+precious,preciou
+precision,ppv
+precursors,precursor
+predicates,predicat
+predications,predication
+prediction tasks,prediction task
+predictions,prediction
+predictive models,predictive model
+predictors,predictor
+predicts,predict
+predispositions,predisposition
+preferences,preferenc
+prefers,prefer
+prefixes,prefix
+pregnancies,pregnanci
+preguntas,pregunta
+prejudices,prejudic
+preoccupations,preoccupation
+preparedness,preparednes
+prepares,prepar
+preprocesses,preprocess
+preprocessing techniques,preprocessing techniqu
+preprocessors,preprocessor
+prescribers,prescriber
+presentations,presentation
+preserves,preserv
+press,pres
+pressures,pressur
+prevails,prevail
+prevalent themes,prevalent them
+prevents,prevent
+preview fuzziness,preview fuzzines
+previous,previou
+previous approaches,previous approach
+previous methods,previous method
+previous studies,previous studi
+previous works,previous work
+prices,pric
+primarily focus,primarily focu
+primary challenges,primary challeng
+principles,principl
+prior studies,prior studi
+priorities,prioriti
+prioritizes,prioritiz
+priors,prior
+privacy concerns,privacy concern
+privacy policies,privacy polici
+privacy reviews,privacy review
+probabilities,probabiliti
+probes,prob
+problems,problem
+proceedings,proceeding
+process,proces
+process involves,process involv
+processes,proces
+processing tasks,processing task
+processing techniques,processing techniqu
+proclivities,procliviti
+producers,producer
+produces,produc
+product,sku
+product images,product imag
+product reviews,product review
+product sales,product sal
+product types,product typ
+product's,product'
+productions,production
+productivistes,productivist
+products,sku
+professionals,professional
+professionnels,professionnel
+professions,profession
+professors,professor
+profiles,profil
+profils,profil
+profits,profit
+prognosis,prognosi
+programmers,programmer
+programmes,programm
+programming languages,programming languag
+programs,program
+progresses,progres
+prohibits,prohibit
+projections,projection
+projects,project
+prolongations,prolongation
+promises,promis
+promising results,promising result
+promote products,promote product
+promotes,promot
+promotion strategies,promotion strategi
+promotions,promotion
+prompt learning,cot
+prompt tokens,prompt token
+prompt tuning,cot
+prompts,prompt
+pronouns,pronoun
+pronunciations,pronunciation
+propagations,propagation
+propagators,propagator
+properties,properti
+proportions,proportion
+proposals,proposal
+proposed cares,proposed car
+proposes,propos
+pros,pro
+prosody,mfcc
+prospects,prospect
+prosumers,prosumer
+protections,protection
+protective behaviors,protective behavior
+protects,protect
+proteins,protein
+protocols,protocol
+prototypes,prototyp
+provaping videos,provaping video
+provers,prover
+proves,prov
+provide insights,provide insight
+provide recommendations,provide recommendation
+providers,provider
+provides,provid
+providing insights,providing insight
+provinces,provinc
+provisions,provision
+provokes,provok
+prowess,prowes
+proxies,proxi
+proximities,proximiti
+pseudo labels,pseudo label
+psrs,psr
+psychiatrists,psychiatrist
+psychoanalysis,psychoanalysi
+psychological problems,psychological problem
+psychologists,psychologist
+psychosis,psychosi
+ptms,ptm
+public attitudes,public attitud
+public awareness,public awarenes
+public concerns,public concern
+public datasets,public dataset
+public opinions,public opinion
+public perceives,public perceiv
+public responses,public respons
+public's,public'
+publications,publication
+publics,public
+published articles,published articl
+publishers,publisher
+pubmed abstracts,pubmed abstract
+punctuations,punctuation
+purchase behaviors,purchase behavior
+purchase decisions,purchase decision
+purchase intentions,purchase intention
+purchases,purchas
+purposes,purpos
+puts,put
+pyrolysis,pyrolysi
+qa components,qa component
+qa systems,qa system
+qnns,qnn
+quadruples,quadrupl
+qualifications,qualification
+qualitative analyses,qualitative analys
+qualities,qualiti
+quality scores,quality scor
+quantifies,quantifi
+quantitatives,quantitativ
+quantities,quantiti
+quantization,awq
+quartiles,quartil
+quelques,quelqu
+quences,quenc
+queries,queri
+query languages,query languag
+question answering,qa
+question templates,question templat
+questions,question
+quickumls,quickuml
+quintuples,quintupl
+quizzes,quizz
+quotations,quotation
+quotes,quot
+radial basis,radial basi
+radiologists,radiologist
+radiology reports,radiology report
+radius,radiu
+rails,rail
+rainstorms,rainstorm
+raise awareness,raise awarenes
+raises,rais
+raising awareness,raising awarenes
+ranges,rang
+rankings,ranking
+ranks,rank
+rare diseases,rare diseas
+raredis,raredi
+raters,rater
+ratings,rating
+rationales,rational
+rations,ration
+ratios,ratio
+ravages,ravag
+ravdeess,ravdees
+ravdess,ravdes
+rawls,rawl
+re process,re proces
+reaches,reach
+reactions,reaction
+readers,reader
+readiness,readines
+reading comprehension,qa
+reads,read
+real datasets,real dataset
+realizes,realiz
+realms,realm
+reasoning abilities,reasoning abiliti
+reasoning capabilities,reasoning capabiliti
+reasoning paths,reasoning path
+reasoning process,reasoning proces
+reasons,reason
+reassess,reasses
+recall,tpr
+receives,receiv
+recent advancements,recent advancement
+recent advances,recent advanc
+recent developments,recent development
+recent studies,recent studi
+recent works,recent work
+recent years,recent year
+receptiveness,receptivenes
+recipes,recip
+recipients,recipient
+recognition systems,recognition system
+recognize emotions,recognize emotion
+recognizes,recogniz
+recognizing emotions,recognizing emotion
+recommend hashtags,recommend hashtag
+recommendation algorithms,recommendation algorithm
+recommendation methods,recommendation method
+recommendation systems,recommendation system
+recommendations,recommendation
+recommender systems,recommender system
+recommends,recommend
+reconstructs,reconstruct
+recordings,recording
+records,record
+recours,recour
+recovers,recover
+redefines,redefin
+redes sociales,redes social
+reduces,reduc
+reductions,reduction
+redundancies,redundanci
+references,referenc
+referents,referent
+referidas,referida
+refers,refer
+refines,refin
+reflects,reflect
+reforms,reform
+refoulements,refoulement
+refutes,refut
+regardless,regardles
+regards,regard
+regional languages,regional languag
+regions,region
+registries,registri
+regression analyses,regression analys
+regressions,regression
+regressors,regressor
+regulates,regulat
+regulations,regulation
+regulators,regulator
+regulatory documents,regulatory document
+reinforces,reinforc
+rejoices,rejoic
+relacionadas,relacionada
+related fields,related field
+related works,related work
+relatedness,relatednes
+relates,relat
+relation embeddings,relation embedding
+relation extraction,ie
+relation paths,relation path
+relation patterns,relation pattern
+relation triples,relation tripl
+relation types,relation typ
+relational triples,relational tripl
+relations,relation
+relationships,relationship
+relatives,relativ
+releases,releas
+relevant parts,relevant part
+reliability assessments,reliability assessment
+relief efforts,relief effort
+relies,reli
+religions,religion
+religious,religiou
+remains,remain
+remarks,remark
+remedies,remedi
+reminders,reminder
+reminds,remind
+removals,removal
+removes,remov
+rentes,rent
+rents,rent
+repercussions,repercussion
+repetitions,repetition
+replacements,replacement
+replaces,replac
+replicates,replicat
+replies,repli
+report's,report'
+repositories,repositori
+reposts,share
+representations,representation
+representative features,representative featur
+representativeness,representativenes
+representatives,representativ
+represents,represent
+repressions,repression
+reptiles,reptil
+republicans,republican
+repurchases,repurchas
+requirements,requirement
+requires,requir
+reranking,ranker
+rescues,rescu
+research articles,research articl
+research assistants,research assistant
+research avenues,research avenu
+research contributes,research contribut
+research directions,research direction
+research efforts,research effort
+research establishes,research establish
+research examines,research examin
+research explores,research explor
+research focuses,research focus
+research gaps,research gap
+research hypotheses,research hypothes
+research opportunities,research opportuniti
+research papers,research paper
+research purposes,research purpos
+research questions,research question
+research seeks,research seek
+research trends,research trend
+researchers,researcher
+researches,research
+resells,resell
+resembles,resembl
+residents,resident
+resignations,resignation
+resolves,resolv
+resource constraints,resource constraint
+resources,resourc
+respects,respect
+respondents,respondent
+responders,responder
+responds,respond
+responses,respons
+responsibilities,responsibiliti
+responsiveness,responsivenes
+restaurants,restaurant
+restrictions,restriction
+restricts,restrict
+result shows,result show
+resultados,resultado
+resulting embeddings,resulting embedding
+retailer's,retailer'
+retailers,retailer
+retains,retain
+retrains,retrain
+retrieval systems,retrieval system
+retrievals,retrieval
+retrieves,retriev
+retrodicts,retrodict
+returns,return
+retweets,retweet
+reveals,reveal
+revenues,revenu
+reversals,reversal
+reverses,revers
+review aims,review aim
+review examines,review examin
+review highlights,review highlight
+review identifies,review identifi
+review reveals,review reveal
+review rounds,review round
+review's,review'
+reviewers,reviewer
+reviews,review
+revolves,revolv
+rewards,
+rgnns,rgnn
+rich semantics,rich semantic
+richness,richnes
+rifts,rift
+rights,right
+rigorous,rigorou
+riques,riqu
+rises,ris
+risk factors,risk factor
+risk perceptions,risk perception
+risks,risk
+ristes,rist
+rnns,rnn
+roads,road
+robocalls,robocall
+robotics,robotic
+robots,robot
+robustness,robustnes
+rocks,rock
+role stress,role stres
+roles,rol
+rollouts,rollout
+rooms,room
+roots,root
+rotations,rotation
+route factors,route factor
+routes,rout
+routines,routin
+rows,row
+rpts,rpt
+rules,rul
+rumors,rumor
+rumours,rumour
+s lives,s liv
+s opinions,s opinion
+s preferences,s preferenc
+saccharomyces,saccharomyc
+sadness,sadnes
+sales,sal
+samples,sampl
+sanitaires,sanitair
+sans,san
+saos,sao
+sars,sar
+satisfiers,satisfier
+satisfies,satisfi
+saves,sav
+savings,saving
+sbr models,sbr model
+scaffolds,scaffold
+scales,scal
+scandals,scandal
+scars,scar
+scattered across,scattered acros
+scenarios,scenario
+scenes,scen
+schemas,schema
+schemes,schem
+schizosaccharomyces,schizosaccharomyc
+scholars,scholar
+schools,school
+sciences,scienc
+scientific articles,scientific articl
+scientific papers,scientific paper
+scientific publications,scientific publication
+scientists,scientist
+sclerosis,sclerosi
+scm's,scm'
+scopus,scopu
+scripts,script
+scrutinizes,scrutiniz
+sdgs,sdg
+sdis,sdi
+seamless,seamles
+search engines,search engin
+search terms,search term
+searches,ir
+sebs,seb
+seconds,second
+sections,section
+sectors,sector
+secures,secur
+security issues,security issu
+security professionals,security professional
+security threats,security threat
+seeds,seed
+seekers,seeker
+seeks,seek
+seems,seem
+segments,segment
+seizures,seizur
+selects,select
+selfies,selfi
+sellers,host
+selling channels,selling channel
+sells,sell
+selves,selv
+semantic associations,semantic association
+semantic constraints,semantic constraint
+semantic correlations,semantic correlation
+semantic features,semantic featur
+semantic relations,semantic relation
+semantic relationships,semantic relationship
+semantic structures,semantic structur
+semantics,semantic
+seminars,seminar
+semiotics,semiotic
+senses,sens
+sensitivity analysis,sensitivity analysi
+sensors,sensor
+sentations,sentation
+sentence,sentenc
+sentence structures,sentence structur
+sentences,sentenc
+sentiment,ate
+sentiment analysis,ate
+sentiment classification,ate
+sentiment elements,sentiment element
+sentiment polarities,sentiment polariti
+sentiment polarity,ate
+sentiment quadruples,sentiment quadrupl
+sentiment tendencies,sentiment tendenci
+sentiments,ate
+separates,separat
+sepsis,sepsi
+sequences,sequenc
+serendipitous,serendipitou
+series,seri
+serious,seriou
+seriousness,seriousnes
+servers,server
+serves,serv
+service providers,service provider
+services,servic
+session,siaran
+sessions,siaran
+sets,set
+settings,setting
+settlements,settlement
+several challenges,several challeng
+several domains,several domain
+shapes,shap
+share experiences,share experienc
+sheds,shed
+shifts,shift
+shoppers,shopper
+shopping experiences,shopping experienc
+shops,shop
+short sentences,short sentenc
+short texts,short text
+short videos,short video
+shortages,shortag
+shortcomings,shortcoming
+shortness,shortnes
+shorts,short
+shots,shot
+should focus,should focu
+showcases,showcas
+sickness,sicknes
+sics,sic
+side effects,side effect
+signals,signal
+significant advancements,significant advancement
+significant advantages,significant advantag
+significant challenges,significant challeng
+significant contributions,significant contribution
+significant differences,significant differenc
+significant disparities,significant dispariti
+significant improvements,significant improvement
+significant predictors,significant predictor
+significant progress,significant progres
+significantly boosts,significantly boost
+significantly enhances,significantly enhanc
+significantly impacts,significantly impact
+significantly improves,significantly improv
+significantly influences,significantly influenc
+significantly outperforms,significantly outperform
+signifies,signifi
+signs,sign
+silent applications,silent application
+silos,silo
+similar cases,similar cas
+similarities,similariti
+simple questions,simple question
+simplequestions,simplequestion
+simplifies,simplifi
+sims,sim
+simulations,simulation
+simultaneous,simultaneou
+sincds,sincd
+singapore's,singapore'
+singers,singer
+sites,sit
+situation awareness,situation awarenes
+situations,situation
+six datasets,six dataset
+six types,six typ
+sizes,siz
+skeletons,skeleton
+skeptics,skeptic
+ski resorts,ski resort
+skiers,skier
+skills,skill
+slavic languages,slavic languag
+slices,slic
+slows,slow
+smaller models,smaller model
+smart cities,smart citi
+smartphones,smartphon
+smartpls,smartpl
+smartwatches,smartwatch
+smes,sm
+smls,sml
+smoothness,smoothnes
+smps,smp
+snacks,snack
+snapshots,snapshot
+snes,sn
+snss,sns
+social indicators,social indicator
+social interactions,social interaction
+social networks,social network
+social norms,social norm
+sociales,social
+societies,societi
+society's,society'
+soft prompts,soft prompt
+soldats,soldat
+soldiers,soldier
+solidifies,solidifi
+solutions,solution
+solvers,solver
+solves,solv
+somatiques,somatiqu
+some cases,some cas
+sometimes,sometim
+soundness,soundnes
+sounds,sound
+sources,sourc
+spaces,spac
+spans,span
+sparql queries,sparql queri
+sparse rewards,sparse reward
+speaker segments,speaker segment
+speaker's,speaker'
+speakers,speaker
+speaks,speak
+spearman's,spearman'
+specialists,specialist
+specialized domains,specialized domain
+specializes,specializ
+specialties,specialti
+species,speci
+specific aspects,specific aspect
+specific attributes,specific attribut
+specific characteristics,specific characteristic
+specific domains,specific domain
+specific fields,specific field
+specifications,specification
+specificities,specificiti
+specifics,specific
+spectators,viewer
+spectrograms,spectrogram
+speech gans,speech gan
+speech recognition,asr
+speech signals,speech signal
+speech synthesis,speech synthesi
+speech's,speech'
+speeches,speech
+speeds,speed
+spelling errors,spelling error
+spheres,spher
+spillover effects,spillover effect
+splits,split
+spoken languages,spoken languag
+sponsored posts,sponsored post
+spontaneous,spontaneou
+sport sciences,sport scienc
+sports,sport
+spots,spot
+spreads,spread
+sprees,spre
+spss,sps
+spurious,spuriou
+spurious correlations,spurious correlation
+squares,squar
+sr models,sr model
+srss,srs
+ssds,ssd
+ssms,ssm
+stabilities,stabiliti
+stages,stag
+stakeholders,stakeholder
+stakes,stak
+stamps,stamp
+stance,ate
+stance detection,ate
+stances,stanc
+standard datasets,standard dataset
+standards,standard
+stands,stand
+starts,start
+statements,statement
+states,stat
+statistical analyses,statistical analys
+statistical analysis,statistical analysi
+statistics,statistic
+stats,stat
+status,statu
+statuses,statu
+stealthiness,stealthines
+stellantis,stellanti
+stems,stem
+steps,step
+stereotypes,stereotyp
+steroids,steroid
+stickiness,stickines
+still faces,still fac
+still needs,still need
+stimulus,stimulu
+stirs,stir
+stis,sti
+stkgs,stkg
+stocks,stock
+stops,stop
+stopwords,stoplist
+storage locations,storage location
+stores,stor
+stories,stori
+straits,strait
+strategies,strategi
+strategists,strategist
+streamer's,streamer'
+streamers,host
+streaming services,streaming servic
+streaming's,streaming'
+streamlines,streamlin
+streams,stream
+strengthens,strengthen
+strengths,strength
+stress,stres
+stresses,stres
+strides,strid
+strings,string
+strong baselines,strong baselin
+structural features,structural featur
+structures,structur
+struggles,struggl
+stse's,stse'
+student records,student record
+student's,student'
+students,student
+studios,studio
+study aims,study aim
+study analyzes,study analyz
+study concludes,study conclud
+study contributes,study contribut
+study demonstrates,study demonstrat
+study examines,study examin
+study explores,study explor
+study extends,study extend
+study highlights,study highlight
+study identifies,study identifi
+study introduces,study introduc
+study investigates,study investigat
+study offers,study offer
+study presents,study present
+study proposes,study propos
+study provides,study provid
+study represents,study represent
+study reveals,study reveal
+study seeks,study seek
+study shows,study show
+study's,study'
+styles,styl
+subassemblies,subassembli
+subcategories,subcategori
+subclass,subclas
+subdomains,subdomain
+subfields,subfield
+subgraphs,subgraph
+subgroups,subgroup
+subjectivities,subjectiviti
+subjects,subject
+submissions,submission
+subpopulations,subpopulation
+subproblems,subproblem
+subreddits,subreddit
+subscriptions,subscription
+subsets,subset
+subspaces,subspac
+substances,substanc
+substantial improvements,substantial improvement
+substantially outperforms,substantially outperform
+substitutes,substitut
+substitutions,substitution
+subsystems,subsystem
+subtasks,subtask
+subthemes,subthem
+subtitle,cc
+subtle forms,subtle form
+subtleties,subtleti
+subtypes,subtyp
+success,succes
+successes,succes
+suffers,suffer
+suggestions,suggestion
+suggests,suggest
+sultats,sultat
+summaries,summari
+summarizes,summariz
+supercomputers,supercomputer
+superfluous,superfluou
+supervised approaches,supervised approach
+supervision signals,supervision signal
+supplements,supplement
+suppliers,supplier
+supplies,suppli
+supply chains,supply chain
+supply risks,supply risk
+supports,support
+suppress,suppres
+surgeons,surgeon
+surpass,surpas
+surpasses,surpas
+survey aims,survey aim
+survey responses,survey respons
+susas,susa
+suspicious,suspiciou
+swishersweets,swishersweet
+syllables,syllabl
+symbolic methods,symbolic method
+symbols,symbol
+symmetries,symmetri
+symptoms,symptom
+synapses,synaps
+synchronous,synchronou
+synergies,synergi
+synergizes,synergiz
+synonymous,synonymou
+synonyms,synonym
+synsets,synset
+syntactic dependencies,syntactic dependenci
+syntactic labels,syntactic label
+syntactic structures,syntactic structur
+syntactics,syntactic
+synthesis,synthesi
+synthesizes,synthesiz
+synthetic opioids,synthetic opioid
+system's,system'
+systematic reviews,systematic review
+systematically assess,systematically asses
+tables,tabl
+tablets,tablet
+tackle this,tackle thi
+tackles,tackl
+tactics,tactic
+tagmynews,tagmynew
+tags,tag
+tail entities,tail entiti
+tailer's,tailer'
+tailers,tailer
+tails,tail
+takeaways,takeaway
+takeovers,takeover
+takes,tak
+talks,talk
+tandis,tandi
+tants,tant
+target class,target clas
+target domains,target domain
+target groups,target group
+targeted interventions,targeted intervention
+targets,target
+tasks,task
+tastiness,tastines
+tats,tat
+taxes,tax
+taxonomies,taxonomi
+teachers,teacher
+teams,team
+technical documents,technical document
+technique's,technique'
+technogenres,technogenr
+technologies,technologi
+techs,tech
+tedious,tediou
+teees,tee
+teenagers,teenager
+teens,teen
+tegs,teg
+telecommunications,telecommunication
+telematics,telematic
+telescopes,telescop
+tels,tel
+temperature extremes,temperature extrem
+temperatures,temperatur
+templates,templat
+templatewas,templatewa
+temporal dependencies,temporal dependenci
+temporal dynamics,temporal dynamic
+temporal facts,temporal fact
+temporal questions,temporal question
+temporal windows,temporal window
+tempquestions,tempquestion
+temps,temp
+temptations,temptation
+ten years,ten year
+tendencies,tendenci
+tends,tend
+tenets,tenet
+tennis,tenni
+tenodesis,tenodesi
+tens,ten
+tenses,ten
+tensions,tension
+terminations,termination
+terminologies,terminologi
+terms,term
+testimonials,testimonial
+tests,test
+texas,texa
+text analytics,cl
+text articles,text articl
+text classification,tagging
+text descriptions,text description
+text features,text featur
+text mining,cl
+text summarization,summarization
+texts,text
+textual descriptions,textual description
+textual features,textual featur
+textual mentions,textual mention
+textual modalities,textual modaliti
+textual representations,textual representation
+texture features,texture featur
+tf idf,tfidf
+tfns,tfn
+than others,than other
+thanks,thank
+that captures,that captur
+that combines,that combin
+that considers,that consider
+that fuses,that fus
+that generates,that generat
+that incorporates,that incorporat
+that integrates,that integrat
+that learns,that learn
+that leverages,that leverag
+that spans,that span
+that takes,that tak
+thchs,thch
+their advantages,their advantag
+their audiences,their audienc
+their contributions,their contribution
+their effectiveness,their effectivenes
+their experiences,their experienc
+their identities,their identiti
+their opinions,their opinion
+their products,their product
+their strengths,their strength
+their success,their succes
+thematic analysis,thematic analysi
+thematic categories,thematic categori
+themes,them
+themis,themi
+themselves,themselv
+theoretical foundations,theoretical foundation
+theoretical insights,theoretical insight
+theoretical perspectives,theoretical perspectiv
+therapeutic chatbots,therapeutic chatbot
+therapies,therapi
+therapists,therapist
+there exists,there exist
+there remains,there remain
+thesaurus,thesauru
+these challenges,these challeng
+these findings,these finding
+these gaps,these gap
+these issues,these issu
+these limitations,these limitation
+these platforms,these platform
+these problems,these problem
+these roles,these rol
+these shortcomings,these shortcoming
+these subtasks,these subtask
+things,thing
+thinks,think
+thirds,third
+thodes,thod
+thorough analysis,thorough analysi
+thoughts,thought
+thousands,thousand
+threads,thread
+threatens,threaten
+threats,threat
+three datasets,three dataset
+three dimensions,three dimension
+three languages,three languag
+three modalities,three modaliti
+three modules,three modul
+three months,three month
+three stages,three stag
+three steps,three step
+three types,three typ
+thresholds,threshold
+thrives,thriv
+thumbs up,like
+thursdays,thursday
+tics,tic
+tiers,tier
+ties,ti
+tiktok,tt
+tiktok posts,tt
+tiktok users,tiktok user
+tiktok videos,tt
+tiktok's,tiktok'
+tiktokers,tiktoker
+tiktoks,tt
+time constraints,time constraint
+time series,time seri
+timelines,timelin
+timeliness,timelin
+timely diagnosis,timely diagnosi
+timequestions,timequestion
+titles,titl
+tkgs,tkg
+tobacco products,tobacco product
+today's,today'
+todos,todo
+tokenization,bpe
+tones,ton
+toolkits,toolkit
+tools,tool
+topic clusters,topic cluster
+topic modeling,lda
+topics,topic
+topology contexts,topology context
+toponyms,toponym
+topsis,topsi
+total likes,total lik
+total shares,total shar
+total views,total view
+touches,touch
+tourism marketers,tourism marketer
+tourists,tourist
+toutes,tout
+towards,toward
+towers,tower
+toxic comment,kasar
+toxic comments,kasar
+toxicities,toxiciti
+toxicity,kasar
+traces,trac
+tracks,track
+traders,trader
+traditional approaches,traditional approach
+traditional methods,traditional method
+trainees,traine
+training process,training proces
+training samples,training sampl
+trains,train
+traits,trait
+trajectories,trajectori
+trans,tran
+transactions,atc
+transcends,transcend
+transcriptions,transcription
+transe,rotate
+transfers,transfer
+transformations,transformation
+transformer,tfm
+transformer architectures,transformer architectur
+transformer models,transformer model
+transforms,transform
+transitions,transition
+translates,translat
+translations,translation
+transmissions,transmission
+transport policies,transport polici
+transporters,transporter
+travellers,traveller
+travers,traver
+treatment options,treatment option
+treatments,treatment
+treats,treat
+trees,tre
+tremendous,tremendou
+trends,trend
+tres,tr
+trials,trial
+tricks,trick
+tricuspis,tricuspi
+tries,tri
+trigger words,trigger word
+triggers,trigger
+triple,tripl
+triple extraction,ie
+triples,tripl
+triplets,triplet
+trolling comments,trolling comment
+trolls,troll
+troubles,troubl
+trump's,trump'
+trusts,trust
+trustworthiness,trustworthines
+truths,truth
+ttps,ttp
+tudes,tud
+tudiants,tudiant
+tukey's,tukey'
+tunes,tun
+tunings,tuning
+tuples,tupl
+turbines,turbin
+tweets,tweet
+twins,twin
+twitter users,twitter user
+two categories,two categori
+two classes,two class
+two kinds,two kind
+two modes,two mod
+two modules,two modul
+two nodes,two nod
+two stages,two stag
+two subtasks,two subtask
+two types,two typ
+types,typ
+typhoons,typhoon
+typically focus,typically focu
+typos,typo
+ubiquitous,ubiquitou
+ugc videos,ugc video
+ugcs,ugc
+ugvs,ugv
+ukgs,ukg
+umls,uml
+unambiguous,unambiguou
+unawareness,unawarenes
+uncertainties,uncertainti
+unconscious,unconsciou
+uncovers,uncover
+undergraduates,undergraduat
+underlies,underli
+underlying mechanisms,underlying mechanism
+undermines,undermin
+underperforms,underperform
+underpinnings,underpinning
+underscores,underscor
+understandings,understanding
+understands,understand
+undertakes,undertak
+underuses,underus
+unifies,unifi
+unimodal features,unimodal featur
+unimodal representations,unimodal representation
+unimodals,unimodal
+unions,union
+unique characteristics,unique characteristic
+unique features,unique featur
+uniqueness,uniquenes
+unis,uni
+units,unit
+universidades,universidad
+universitarias,universitaria
+universitarios,universitario
+universities,universiti
+university students,university student
+unless,unles
+unlike previous,unlike previou
+unseen entities,unseen entiti
+unseen targets,unseen target
+unstructured texts,unstructured text
+unveils,unveil
+updates,updat
+uploaders,uploader
+urban areas,urban area
+urban crises,urban cris
+urges,urg
+urologists,urologist
+usage patterns,usage pattern
+usages,usag
+use cases,use cas
+usefulness,usefulnes
+useless,useles
+user behaviors,user behavior
+user interactions,user interaction
+user interests,user interest
+user needs,user need
+user opinions,user opinion
+user perceptions,user perception
+user preferences,user preferenc
+user queries,user queri
+user reviews,user review
+user stickiness,user stickines
+user's,user'
+users,user
+uses,us
+using spss,using sps
+uterus,uteru
+utilis,utili
+utilises,utili
+utilities,utiliti
+utilizadas,utilizada
+utilize llms,utilize llm
+utilizes,utiliz
+utis,uti
+utterances,utteranc
+uutis,uuti
+vaccinations,vaccination
+vaccines,vaccin
+valid responses,valid respons
+validates,validat
+validations,validation
+vallieres,vallier
+valuable insights,valuable insight
+value perceptions,value perception
+values,valu
+vamos,vamo
+vapes,vap
+vaping tricks,vaping trick
+variables,variabl
+variances,varianc
+variants,sku
+variations,variation
+varicoceles,varicocel
+varies,vari
+various,variou
+various applications,various application
+various aspects,various aspect
+various domains,various domain
+various fields,various field
+various forms,various form
+various industries,various industri
+various languages,various languag
+various sectors,various sector
+various sources,various sourc
+varying degrees,varying degre
+varying levels,varying level
+vast amounts,vast amount
+vector representations,vector representation
+vectors,vector
+vehicles,vehicl
+vendors,vendor
+venues,venu
+verbalisations,verbalisation
+verbalizations,verbalization
+verbs,verb
+verifies,verifi
+versions,version
+versus,versu
+versus controls,versus control
+verticals,vertical
+vessels,vessel
+veterans,veteran
+vicarious,vicariou
+victims,victim
+video characteristics,video characteristic
+video creators,video creator
+video frames,video fram
+video platforms,video platform
+video's,video'
+videos,video
+vidoes,vido
+viewer's,viewer'
+viewpoints,viewpoint
+views,view
+villages,villag
+violations,violation
+virtual streamers,virtual streamer
+virtues,virtu
+virus,viru
+visitors,visitor
+visits,visit
+vistools,vistool
+visual analytics,visual analytic
+visual cues,visual cu
+visual elements,visual element
+visual features,visual featur
+visualberts,visualbert
+visualizations,visualization
+visuals,visual
+vitell's,vitell'
+vits,vit
+vividness,vividnes
+vlms,vlm
+vlogs,vlog
+vocabularies,vocabulari
+voicemails,voicemail
+voiceprints,voiceprint
+voices,voic
+voids,void
+volumes,volum
+voluminous,voluminou
+voters,voter
+vulnerabilities,vulnerabiliti
+vvalues,vvalu
+walks,walk
+wallets,wallet
+wallis,walli
+wares,war
+warnings,warning
+wars,war
+washyourhands,washyourhand
+wastes,wast
+waters,water
+waveforms,waveform
+waves,wav
+ways,way
+weak supervision,snorkel
+weakens,weaken
+weaknesses,weakness
+weapons,weapon
+web resources,web resourc
+webpages,webpag
+webquestions,webquestion
+weekdays,weekday
+weekends,weekend
+weibo posts,weibo post
+weight loss,weight los
+weights,weight
+wellness,wellnes
+wells,well
+wheelchairs,wheelchair
+wheels,wheel
+where individuals,where individual
+whereas,wherea
+which addresses,which address
+which affects,which affect
+which aims,which aim
+which aligns,which align
+which allows,which allow
+which brings,which bring
+which combines,which combin
+which consists,which consist
+which constrains,which constrain
+which contains,which contain
+which employs,which employ
+which enables,which enabl
+which encompasses,which encompass
+which extracts,which extract
+which fails,which fail
+which helps,which help
+which hinders,which hinder
+which ignores,which ignor
+which improves,which improv
+which includes,which includ
+which integrates,which integrat
+which involves,which involv
+which leverages,which leverag
+which makes,which mak
+which poses,which pos
+which refines,which refin
+which represents,which represent
+which utilizes,which utiliz
+while previous,while previou
+whole process,whole proces
+wieiad videos,wieiad video
+wies,wi
+wikipathways,wikipathway
+wildfires,wildfir
+will discuss,will discus
+willingness,willingnes
+wireless,wireles
+with iuds,with iud
+with regards,with regard
+within sentences,within sentenc
+without calories,without calori
+witness,witnes
+women's,women'
+word dependencies,word dependenci
+word embedding,cbow
+word embeddings,cbow
+words,word
+work focuses,work focus
+work presents,work present
+workers,worker
+workflows,workflow
+workings,working
+workplaces,workplac
+works,work
+works focus,works focu
+workshops,workshop
+world's,world'
+worsens,worsen
+worthiness,worthines
+yields,yield
+young adults,young adult
+younger generations,younger generation
+youths,youth
+youtube comments,youtube comment
+youtube videos,youtube video
+zeolites,zeolit
+zones,zon

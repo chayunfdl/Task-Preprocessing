@@ -1,0 +1,6 @@
+TIKTOK AND AND (BERT OR "transformer" OR "transformers" OR "prompt learning")
+natural language processing ("knowledge graph" OR "knowledge graphs") AND (sentiment OR "opinion mining" OR "question answering" OR QA OR "text classification" OR "information retrieval")
+natural language processing ("knowledge graph" OR "knowledge base") AND ("entity linking" OR "named entity linking" OR "entity resolution" OR "coreference resolution") AND ("relation extraction" OR "triple extraction" OR "information extraction")
+natural language processing AND ("multimodal sentiment" OR "audio-visual sentiment" OR "speech emotion recognition" OR "affect recognition") AND (transcript OR subtitle OR subtitles OR "speech to text")
+natural language processing AND ("aspect-based sentiment" OR ABSA OR "opinion target extraction" OR "aspect extraction") AND (dependency OR "syntactic parsing" OR "semantic role labeling" OR "topic modeling")
+natural language processing AND (sentiment OR "opinion mining" OR "aspect-based sentiment" OR "emotion analysis" OR "emotion recognition" OR toxicity OR "hate speech" OR "stance detection")

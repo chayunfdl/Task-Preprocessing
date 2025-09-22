@@ -1,0 +1,884 @@
+{
+  "tiktok": [
+    "tik tok",
+    "douyin",
+    "抖音",
+    "tt",
+    "tiktok live",
+    "tiktok shop",
+    "tt live",
+    "tt shop"
+  ],
+  "livestream": [
+    "live stream",
+    "livestreaming",
+    "live streaming",
+    "live broadcast",
+    "live broadcasting",
+    "siaran langsung",
+    "tayangan langsung",
+    "siaran live",
+    "streaming langsung",
+    "stream room",
+    "live room"
+  ],
+  "live commerce": [
+    "social commerce live",
+    "live-shopping",
+    "live shop",
+    "live shopping",
+    "e-commerce live",
+    "komersial live",
+    "belanja live",
+    "commerce live",
+    "shop stream",
+    "shopping stream",
+    "flash sale live"
+  ],
+  "comment": [
+    "comments",
+    "live chat",
+    "chat",
+    "obrolan",
+    "percakapan",
+    "komentar",
+    "komentar live",
+    "chat room",
+    "room chat",
+    "message",
+    "pesan",
+    "live comments"
+  ],
+  "viewer": [
+    "viewers",
+    "audience",
+    "penonton",
+    "pemirsa",
+    "warga room",
+    "users watching",
+    "spectator",
+    "watcher"
+  ],
+  "engagement": [
+    "interaksi",
+    "keterlibatan",
+    "engage",
+    "engagement rate",
+    "ER",
+    "retensi",
+    "retention",
+    "dwell time",
+    "watch time",
+    "durasi tonton",
+    "avg watch time",
+    "completion rate"
+  ],
+  "virtual gift": [
+    "virtual gifts",
+    "gift",
+    "gifts",
+    "gifting",
+    "tipping",
+    "tip",
+    "tips",
+    "hadiah virtual",
+    "gift live",
+    "items",
+    "virtual items",
+    "stickers gift",
+    "rose",
+    "lion",
+    "universe",
+    "superchat",
+    "super chat"
+  ],
+  "coin": [
+    "coins",
+    "koin",
+    "diamonds",
+    "diamond",
+    "coin balance",
+    "saldo coin",
+    "credits",
+    "credit",
+    "token",
+    "tokens"
+  ],
+  "monetization": [
+    "monetisation",
+    "monetize",
+    "in-app purchase",
+    "iap",
+    "pembelian dalam aplikasi",
+    "creator economy",
+    "creator payout",
+    "commission",
+    "affiliate",
+    "affiliate commission",
+    "revenue share",
+    "take rate",
+    "ARPPU",
+    "GMV",
+    "gross merchandise value"
+  ],
+  "sentiment": [
+    "sentiment analysis",
+    "opinion mining",
+    "opini mining",
+    "analisis sentimen",
+    "polaritas",
+    "polarity",
+    "sentimen",
+    "valence",
+    "positive",
+    "negative",
+    "neutral",
+    "pos",
+    "neg",
+    "neu"
+  ],
+  "aspect-based sentiment": [
+    "absa",
+    "aspect extraction",
+    "opinion target extraction",
+    "target-based sentiment",
+    "analisis aspek",
+    "ekstraksi aspek",
+    "ate",
+    "ote",
+    "category sentiment"
+  ],
+  "stance detection": [
+    "stance",
+    "stance classification",
+    "deteksi stance",
+    "stance analysis",
+    "stance mining"
+  ],
+  "toxicity": [
+    "toxic",
+    "hate speech",
+    "abusive language",
+    "offensive language",
+    "toxic comment",
+    "pelecehan",
+    "ujaran kebencian",
+    "kasar",
+    "cyberbullying",
+    "harassment",
+    "insult",
+    "profanity"
+  ],
+  "emotion analysis": [
+    "emotion recognition",
+    "affect recognition",
+    "affective computing",
+    "speech emotion recognition",
+    "ser",
+    "deteksi emosi",
+    "analisis emosi",
+    "valence-arousal",
+    "arousal",
+    "dominance",
+    "vad"
+  ],
+  "natural language processing": [
+    "pemrosesan bahasa alami",
+    "pba",
+    "computational linguistics",
+    "cl",
+    "language technology",
+    "text mining",
+    "text analytics"
+  ],
+  "nlp": [],
+  "knowledge graph": [
+    "knowledge graphs",
+    "kg",
+    "knowledge base",
+    "kb",
+    "graph knowledge base",
+    "ontology graph",
+    "linked data",
+    "rdf graph",
+    "triple store"
+  ],
+  "entity linking": [
+    "named entity linking",
+    "nel",
+    "entity disambiguation",
+    "wikification",
+    "penautan entitas",
+    "wikidata linking",
+    "kb linking"
+  ],
+  "entity resolution": [
+    "record linkage",
+    "entity matching",
+    "deduplication",
+    "penyamaan entitas",
+    "identity resolution"
+  ],
+  "coreference resolution": [
+    "coref",
+    "anaphora resolution",
+    "coreference",
+    "resolusi koreferensi",
+    "co-reference"
+  ],
+  "relation extraction": [
+    "triple extraction",
+    "information extraction",
+    "ie",
+    "ekstraksi relasi",
+    "ekstraksi informasi",
+    "open ie",
+    "event extraction"
+  ],
+  "graph neural network": [
+    "graph neural networks",
+    "gnn",
+    "graph convolutional network",
+    "gcn",
+    "graph attention network",
+    "gat",
+    "graph representation learning",
+    "graph embeddings",
+    "graphsage",
+    "sage",
+    "rgcn",
+    "relational gcn",
+    "rgat",
+    "heterogeneous gnn",
+    "hgt"
+  ],
+  "graph representation learning": [
+    "graph embedding",
+    "node embedding",
+    "link prediction",
+    "graph learning",
+    "edge embedding",
+    "knowledge graph embedding",
+    "kge",
+    "network embedding",
+    "metapath"
+  ],
+  "transformer": [
+    "transformers",
+    "tfm",
+    "attention is all you need",
+    "self-attention"
+  ],
+  "bert": [
+    "bidirectional encoder representations from transformers",
+    "roberta",
+    "albert",
+    "deberta",
+    "bert-base",
+    "bert-large",
+    "electra",
+    "xlnet",
+    "longformer",
+    "flaubert",
+    "camembert",
+    "multilingual bert",
+    "mbert"
+  ],
+  "prompt learning": [
+    "prompting",
+    "in-context learning",
+    "icl",
+    "instruction tuning",
+    "prefix tuning",
+    "prompt tuning",
+    "p-tuning",
+    "adapters",
+    "lora",
+    "zero-shot",
+    "few-shot",
+    "adapter tuning",
+    "peft",
+    "parameter-efficient fine-tuning",
+    "cot",
+    "chain-of-thought",
+    "rationale"
+  ],
+  "text classification": [
+    "document classification",
+    "topic classification",
+    "klasifikasi teks",
+    "labeling",
+    "tagging"
+  ],
+  "information retrieval": [
+    "ir",
+    "document retrieval",
+    "search",
+    "pencarian informasi",
+    "bm25",
+    "sparse retrieval",
+    "dense retrieval",
+    "dpr",
+    "colbert",
+    "vector search",
+    "semantic search"
+  ],
+  "question answering": [
+    "qa",
+    "reading comprehension",
+    "open-domain qa",
+    "machine reading comprehension",
+    "pertanyaan-jawaban",
+    "tanya jawab",
+    "extractive QA",
+    "abstractive QA",
+    "knowledge-based QA",
+    "kbqa"
+  ],
+  "multimodal sentiment": [
+    "audio-visual sentiment",
+    "multimodal emotion recognition",
+    "mer",
+    "video sentiment"
+  ],
+  "speech to text": [
+    "asr",
+    "automatic speech recognition",
+    "speech recognition",
+    "stt",
+    "speech-to-text"
+  ],
+  "subtitle": [
+    "subtitles",
+    "subtitle",
+    "transcript",
+    "transcripts",
+    "caption",
+    "captions",
+    "closed caption",
+    "cc",
+    "subtitle alignment",
+    "closed captions"
+  ],
+  "dependency": [
+    "dependency parsing",
+    "syntactic parsing",
+    "parsing dependensi",
+    "constituency parsing"
+  ],
+  "semantic role labeling": [
+    "srl",
+    "role labeling",
+    "pelabelan peran semantik",
+    "predicate-argument"
+  ],
+  "topic modeling": [
+    "topic modelling",
+    "lda",
+    "latent dirichlet allocation",
+    "topik modelling",
+    "nmf",
+    "non-negative matrix factorization",
+    "bertopic",
+    "topic discovery"
+  ],
+  "like": [
+    "likes",
+    "heart",
+    "hearts",
+    "suka",
+    "thumbs up",
+    "favorit",
+    "favorite"
+  ],
+  "share": [
+    "shares",
+    "dibagikan",
+    "forward",
+    "repost"
+  ],
+  "comment count": [
+    "comment counts",
+    "jumlah komentar",
+    "kepadatan chat",
+    "chat velocity",
+    "chat rate"
+  ],
+  "viewer count": [
+    "concurrent viewers",
+    "peak viewers",
+    "jumlah penonton",
+    "view count",
+    "live viewers",
+    "active viewers"
+  ],
+  "follow": [
+    "followers",
+    "follower growth",
+    "mengikuti",
+    "pengikut",
+    "following",
+    "subscribers",
+    "subs"
+  ],
+  "moderation": [
+    "content moderation",
+    "moderasi",
+    "filter",
+    "safety",
+    "policy violation",
+    "trust and safety",
+    "t&s"
+  ],
+  "conversion": [
+    "konversi",
+    "checkout",
+    "add to cart",
+    "ATC",
+    "pembelian",
+    "penjualan",
+    "order",
+    "orders",
+    "completed order",
+    "paid order",
+    "payment",
+    "trx",
+    "transaction"
+  ],
+  "product": [
+    "sku",
+    "barang",
+    "produk",
+    "catalog",
+    "listing",
+    "varian",
+    "variant",
+    "sku id"
+  ],
+  "indonesian": [
+    "id",
+    "bahasa indonesia",
+    "indo",
+    "indonesia"
+  ],
+  "english": [
+    "en",
+    "inggris",
+    "english language"
+  ],
+  "creator": [
+    "streamer",
+    "broadcaster",
+    "host",
+    "influencer",
+    "content creator",
+    "live host",
+    "anchor",
+    "seller"
+  ],
+  "session": [
+    "broadcast",
+    "siaran",
+    "sesi live"
+  ],
+  "emote": [
+    "emoji",
+    "sticker",
+    "emoticon",
+    "ikon ekspresi"
+  ],
+  "recharge": [
+    "top up",
+    "top-up",
+    "isi ulang",
+    "isi saldo",
+    "recharge coins"
+  ],
+  "information extraction": [
+    "ie",
+    "relation extraction",
+    "entity extraction",
+    "triple extraction"
+  ],
+  "transe": [
+    "distmult",
+    "complex",
+    "rotate",
+    "transh",
+    "kg embedding models"
+  ],
+  "t5": [
+    "text-to-text transfer transformer",
+    "flan-t5"
+  ],
+  "gpt": [
+    "gpt-2",
+    "gpt2",
+    "gpt-3",
+    "gpt3",
+    "gpt-neo",
+    "llama",
+    "vicuna",
+    "mistral",
+    "chatgpt"
+  ],
+  "prosody": [
+    "pitch",
+    "energy",
+    "mfcc",
+    "formant",
+    "intonation",
+    "prosodi"
+  ],
+  "part-of-speech": [
+    "pos tagging",
+    "pos-tagging",
+    "pos",
+    "speech part tagging"
+  ],
+  "chinese": [
+    "zh",
+    "mandarin",
+    "cn",
+    "china language"
+  ],
+  "natural language understanding": [
+    "nlu",
+    "language understanding"
+  ],
+  "natural language generation": [
+    "nlg",
+    "text generation",
+    "language generation"
+  ],
+  "tokenization": [
+    "tokeniser",
+    "tokenizer",
+    "word tokenization",
+    "subword tokenization",
+    "sentencepiece",
+    "wordpiece",
+    "byte-pair encoding",
+    "bpe",
+    "unigram lm",
+    "character tokenization"
+  ],
+  "normalization": [
+    "text normalization",
+    "lowercasing",
+    "casing normalization",
+    "unicode normalization",
+    "nfc",
+    "nfd",
+    "nfkc",
+    "nfkd",
+    "romanization",
+    "transliteration",
+    "deaccenting",
+    "unidecode"
+  ],
+  "stemming": [
+    "porter stemmer",
+    "snowball stemmer",
+    "lancaster stemmer",
+    "stemming algorithm"
+  ],
+  "lemmatization": [
+    "lemmatiser",
+    "lemmatizer",
+    "wordnet lemmatizer",
+    "spacy lemmatizer",
+    "morphological analysis"
+  ],
+  "stopwords": [
+    "stop words",
+    "stop-word removal",
+    "stoplist",
+    "stop list"
+  ],
+  "n-gram": [
+    "ngram",
+    "bi-gram",
+    "bigram",
+    "tri-gram",
+    "trigram",
+    "character ngram"
+  ],
+  "oov": [
+    "out-of-vocabulary",
+    "unknown token",
+    "<unk>"
+  ],
+  "bag of words": [
+    "bow",
+    "bag-of-words"
+  ],
+  "tf-idf": [
+    "tfidf",
+    "term frequency–inverse document frequency",
+    "tf idf"
+  ],
+  "logistic regression": [
+    "logreg",
+    "logit"
+  ],
+  "svm": [
+    "support vector machine",
+    "support vector machines"
+  ],
+  "naive bayes": [
+    "nb",
+    "multinomial naive bayes",
+    "bernoulli naive bayes"
+  ],
+  "crf": [
+    "conditional random field",
+    "conditional random fields"
+  ],
+  "hmm": [
+    "hidden markov model",
+    "hidden markov models"
+  ],
+  "chunking": [
+    "shallow parsing",
+    "phrase chunking"
+  ],
+  "named entity recognition": [
+    "ner",
+    "entity recognition",
+    "named entity tagging"
+  ],
+  "dependency parsing": [
+    "dependency parser",
+    "syntactic dependency parsing"
+  ],
+  "constituency parsing": [
+    "phrase-structure parsing",
+    "pcfg parsing"
+  ],
+  "word embedding": [
+    "word embeddings",
+    "distributed representations",
+    "word2vec",
+    "skip-gram",
+    "cbow",
+    "glove",
+    "fasttext",
+    "subword embeddings"
+  ],
+  "sentence embedding": [
+    "sentence embeddings",
+    "sbert",
+    "sentence-bert",
+    "use",
+    "universal sentence encoder",
+    "doc2vec",
+    "paragraph vectors",
+    "doc embedding"
+  ],
+  "contextual embedding": [
+    "contextualized embeddings",
+    "bert embeddings",
+    "elmo",
+    "flair embeddings"
+  ],
+  "vector similarity": [
+    "cosine similarity",
+    "dot-product similarity",
+    "ann",
+    "approximate nearest neighbor"
+  ],
+  "vector database": [
+    "vector store",
+    "faiss",
+    "hnsw",
+    "hnswlib",
+    "annoy",
+    "scann",
+    "milvus",
+    "pinecone",
+    "weaviate"
+  ],
+  "retrieval augmented generation": [
+    "rag",
+    "retrieve-and-read",
+    "fusion-in-decoder",
+    "fid",
+    "rag pipeline"
+  ],
+  "reranking": [
+    "re-ranking",
+    "cross-encoder reranker",
+    "lexical vs semantic reranking",
+    "reorderer",
+    "ranker"
+  ],
+  "bm25": [
+    "okapi bm25",
+    "bm25+",
+    "bm25l"
+  ],
+  "negative sampling": [
+    "hard negatives",
+    "in-batch negatives"
+  ],
+  "encoder-decoder": [
+    "seq2seq",
+    "sequence-to-sequence",
+    "transformer encoder-decoder"
+  ],
+  "language modeling": [
+    "language model",
+    "lm",
+    "masked language modeling",
+    "mlm",
+    "causal language modeling",
+    "clm"
+  ],
+  "fine-tuning": [
+    "finetuning",
+    "supervised fine-tuning",
+    "sft",
+    "instruction tuning"
+  ],
+  "peft": [
+    "parameter-efficient fine-tuning",
+    "lora",
+    "prefix tuning",
+    "p-tuning",
+    "adapters",
+    "ia3",
+    "qlora"
+  ],
+  "distillation": [
+    "knowledge distillation",
+    "teacher-student",
+    "student model"
+  ],
+  "quantization": [
+    "int8 quantization",
+    "int4 quantization",
+    "gguf",
+    "gptq",
+    "awq"
+  ],
+  "pruning": [
+    "structured pruning",
+    "unstructured pruning",
+    "sparsification"
+  ],
+  "inference": [
+    "batching",
+    "kv cache",
+    "beam search",
+    "greedy decoding",
+    "top-k sampling",
+    "nucleus sampling",
+    "top-p",
+    "temperature sampling"
+  ],
+  "summarization": [
+    "text summarization",
+    "abstractive summarization",
+    "extractive summarization",
+    "multi-document summarization",
+    "headline generation",
+    "meeting summarization"
+  ],
+  "machine translation": [
+    "mt",
+    "neural machine translation",
+    "nmt",
+    "statistical machine translation",
+    "smt",
+    "translation quality estimation"
+  ],
+  "paraphrase detection": [
+    "paraphrase identification",
+    "semantic textual similarity",
+    "sts"
+  ],
+  "sentiment analysis": [
+    "opinion mining",
+    "aspect-based sentiment",
+    "absa",
+    "emotion recognition",
+    "stance detection",
+    "subjectivity analysis"
+  ],
+  "weak supervision": [
+    "snorkel",
+    "distant supervision",
+    "silver labels"
+  ],
+  "active learning": [
+    "human-in-the-loop",
+    "annotation budget"
+  ],
+  "data augmentation": [
+    "backtranslation",
+    "noise injection",
+    "eda",
+    "easy data augmentation"
+  ],
+  "dataset split": [
+    "train/validation/test split",
+    "k-fold cross validation",
+    "cv"
+  ],
+  "accuracy": [
+    "acc"
+  ],
+  "precision": [
+    "positive predictive value",
+    "ppv"
+  ],
+  "recall": [
+    "sensitivity",
+    "true positive rate",
+    "tpr"
+  ],
+  "f1 score": [
+    "f1",
+    "f1-score",
+    "f measure",
+    "f-measure"
+  ],
+  "auc": [
+    "roc-auc",
+    "area under the curve"
+  ],
+  "bleu": [
+    "bleu score"
+  ],
+  "rouge": [
+    "rouge-l",
+    "rouge-1",
+    "rouge-2",
+    "rouge score"
+  ],
+  "meteor": [
+    "meteor score"
+  ],
+  "bertscore": [
+    "bert score"
+  ],
+  "alignment": [
+    "rlhf",
+    "reinforcement learning from human feedback",
+    "rm",
+    "reward model",
+    "dpo",
+    "direct preference optimization"
+  ],
+  "social media": [
+  "social medium",
+  "social-media",
+  "social_media",
+  "social media platform",
+  "social-media-platform",
+  "social_media_platform",
+  "social media platforms",
+  "social mediums"
+  ]
+}
